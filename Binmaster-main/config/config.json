@@ -1,0 +1,37 @@
+{
+  "minecraft": {
+    "emails": ""
+  },
+  "page": {
+    "port": 6969
+  },
+  "webhook": {
+    "webhook_url": ""
+  },
+  "bed_flips": {
+    "spam_buy_delay": 45,
+    "pre_bed_spam": 1000
+  },
+  "logger": {
+    "colorfulLog": true,
+    "logDate": true,
+    "logChat": true,
+    "logConsole": true,
+    "prefix": "ClawLuca and AscendedAspect have the best config/filter market! >"
+  },
+  "listing": {
+    "duration": "24h"
+  },
+  "flips": {
+    "min_profit": 1500000,
+    "min_profit_percentage": 7,
+    "sell_overflow_multiplier": 1.1,
+    "sell_overflow_base": 3500000,
+    "min_volume": 0,
+    "sort_flips": "random"
+  },
+  "api_keys": {
+    "binmaster_key": "",
+    "hypixel_api_key": ""
+  }
+}
