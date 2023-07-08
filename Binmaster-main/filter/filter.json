@@ -1339,6 +1339,7 @@
     "COUTURE_RUNE_1=global:true",
     "COUTURE_RUNE_2=global:true",
     "COUTURE_RUNE_3=global:true",
+    "CRACKED_PIGGY_BANK=global:true",
     "CRAFTING_PLUS=global:true",
     "CRIMSON_BOOTS=global:true",
     "CRIMSON_CHESTPLATE=global:true",
@@ -1388,11 +1389,7 @@
     "DIRT_ROD=global:true",
     "DISPENSER=global:true",
     "DITTO_SKIN=global:true",
-    "DIVAN_BOOTS=global:true",
-    "DIVAN_CHESTPLATE=global:true",
     "DIVAN_DRILL=global:true",
-    "DIVAN_HELMET=global:true",
-    "DIVAN_LEGGINGS=global:true",
     "DIVER_PUFFER=global:true",
     "DOUBLE_PLANT:1=global:true",
     "DOUBLE_PLANT:2=global:true",
@@ -1493,6 +1490,10 @@
     "FENCE=global:true",
     "FENCE_GATE=global:true",
     "FERMENTED_SPIDER_EYE=global:true",
+    "FERMENTNO_HELMET=global:true",
+    "FERMENTO_CHESTPLATE=global:true",
+    "FERMENTO_LEGGINGS=global:true",
+    "FERMENTO_BOOTS=global:true",
     "FERVOR_BOOTS=global:true",
     "FERVOR_CHESTPLATE=global:true",
     "FERVOR_HELMET=global:true",
@@ -5309,7 +5310,6 @@
     "GRAND_SEARING_RUNE_3=global:true",
     "GRANDFATHER_CLOCK=global:true",
     "GRASS=global:true",
-    "GREAT_SPOOK_ARTIFACT=global:true",
     "GREAT_SPOOK_BELT=global:true",
     "GREAT_SPOOK_BOOTS=global:true",
     "GREAT_SPOOK_CHESTPLATE=global:true",
@@ -5361,6 +5361,7 @@
     "HOT_RUNE_3=global:true",
     "HYPERGOLIC_IONIZED_CERAMICS=global:true",
     "HYPIXEL_SANDCASTLE=global:true",
+    "ICE_CREAM_CART=global:true",
     "ICE_CREAM_PERSONALITY=global:true",
     "ICE_LOLLY_PERSONALITY=global:true",
     "ICE_RUNE_1=global:true",
@@ -5415,6 +5416,20 @@
     "JERRY_RUNE_3=global:true",
     "JERRY_TALISMAN_GOLDEN=global:true",
     "JERRY_BARN_SKIN=global:true",
+    "TAVERN_BARN_SKIN=global:true",
+    "WINDMILL_BARN_SKIN=global:true",
+    "CUBE_BARN_SKIN=global:true",
+    "COZY_COTTAGE_BARN_SKIN=global:true",
+    "CASTLE_BARN_SKIN=global:true",
+    "HIVE_BARN_SKIN=global:true",
+    "BAMBOO_BARN_SKIN=global:true",
+    "AUTUMN_HUT_BARN_SKIN=global:true",
+    "TRADING_POST_BARN_SKIN=global:true",
+    "MANSION_HEIGHTS_BARN_SKIN=global:true",
+    "CABIN_BARN_SKIN=global:true",
+    "RED_BARN_SKIN=global:true",
+    "SUNNY_BARN_SKIN=global:true",
+    "MEDEIVAL_BARN_SKIN=global:true",
     "JUDGEMENT_CORE=global:true",
     "JUJU_SHORTBOW=overload:1&power:7&rarity_upgraded:true&stars:10&ultimate_reiterate:1",
     "JUJU_SHORTBOW=overload:1&power:7&rarity_upgraded:true&stars:10&ultimate_reiterate:2",
@@ -8370,7 +8385,6 @@
     "OLD_DISC=global:true",
     "OLD_SHIMMER=global:true",
     "OOPS_THE_FISH=global:true",
-    "OVERFLUX_POWER_ORB=global:true",
     "PAINTING=global:true",
     "PANDORAS_BOX=global:true",
     "PAPER=global:true",
@@ -10354,126 +10368,6 @@
     "PET_GLACIAL_WISP_UNCOMMON=candyUsed:true&rounded_level:85",
     "PET_GLACIAL_WISP_UNCOMMON=candyUsed:true&rounded_level:90",
     "PET_GLACIAL_WISP_UNCOMMON=candyUsed:true&rounded_level:95",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:0",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:10",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:100",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:105",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:110",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:115",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:120",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:125",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:130",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:135",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:140",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:145",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:15",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:150",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:155",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:160",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:165",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:170",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:175",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:180",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:185",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:190",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:195",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:20",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:200",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:25",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:30",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:35",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:40",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:45",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:5",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:50",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:55",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:60",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:65",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:70",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:75",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:80",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:85",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:90",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:95",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:0",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:100",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:105",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:110",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:115",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:120",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:125",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:130",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:135",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:140",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:145",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:15",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:150",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:155",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:160",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:165",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:170",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:175",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:180",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:185",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:190",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:195",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:20",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:200",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:25",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:30",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:35",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:40",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:45",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:5",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:50",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:55",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:60",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:65",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:70",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:75",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:80",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:85",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:90",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:95",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:0",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:10",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:100",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:105",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:110",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:115",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:120",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:125",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:130",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:135",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:140",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:145",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:15",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:150",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:155",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:160",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:165",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:170",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:175",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:180",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:185",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:190",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:195",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:20",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:200",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:25",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:30",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:35",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:40",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:45",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:5",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:50",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:55",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:60",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:70",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:80",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:85",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:90",
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:95",
     "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&rounded_level:0",
     "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&rounded_level:10",
     "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&rounded_level:100",
@@ -11141,6 +11035,7 @@
     "PET_GUARDIAN_LEGENDARY=candyUsed:true&rounded_level:85",
     "PET_GUARDIAN_LEGENDARY=candyUsed:true&rounded_level:90",
     "PET_GUARDIAN_LEGENDARY=candyUsed:true&rounded_level:95",
+    "PET_GUARDIAN_MYTHIC=global:true",
     "PET_GUARDIAN_RARE=candyUsed:true&rounded_level:10",
     "PET_GUARDIAN_RARE=candyUsed:true&rounded_level:100",
     "PET_GUARDIAN_RARE=candyUsed:true&rounded_level:15",
@@ -12769,26 +12664,6 @@
     "PET_ROCK_UNCOMMON=candyUsed:true&rounded_level:85",
     "PET_ROCK_UNCOMMON=candyUsed:true&rounded_level:90",
     "PET_ROCK_UNCOMMON=candyUsed:true&rounded_level:95",
-    "PET_SCATHA_EPIC=candyUsed:false&rounded_level:10",
-    "PET_SCATHA_EPIC=candyUsed:false&rounded_level:100",
-    "PET_SCATHA_EPIC=candyUsed:false&rounded_level:15",
-    "PET_SCATHA_EPIC=candyUsed:false&rounded_level:20",
-    "PET_SCATHA_EPIC=candyUsed:false&rounded_level:25",
-    "PET_SCATHA_EPIC=candyUsed:false&rounded_level:30",
-    "PET_SCATHA_EPIC=candyUsed:false&rounded_level:35",
-    "PET_SCATHA_EPIC=candyUsed:false&rounded_level:40",
-    "PET_SCATHA_EPIC=candyUsed:false&rounded_level:45",
-    "PET_SCATHA_EPIC=candyUsed:false&rounded_level:5",
-    "PET_SCATHA_EPIC=candyUsed:false&rounded_level:50",
-    "PET_SCATHA_EPIC=candyUsed:false&rounded_level:55",
-    "PET_SCATHA_EPIC=candyUsed:false&rounded_level:60",
-    "PET_SCATHA_EPIC=candyUsed:false&rounded_level:65",
-    "PET_SCATHA_EPIC=candyUsed:false&rounded_level:70",
-    "PET_SCATHA_EPIC=candyUsed:false&rounded_level:75",
-    "PET_SCATHA_EPIC=candyUsed:false&rounded_level:80",
-    "PET_SCATHA_EPIC=candyUsed:false&rounded_level:85",
-    "PET_SCATHA_EPIC=candyUsed:false&rounded_level:90",
-    "PET_SCATHA_EPIC=candyUsed:false&rounded_level:95",
     "PET_SCATHA_EPIC=candyUsed:true&rounded_level:10",
     "PET_SCATHA_EPIC=candyUsed:true&rounded_level:100",
     "PET_SCATHA_EPIC=candyUsed:true&rounded_level:15",
@@ -12829,26 +12704,6 @@
     "PET_SCATHA_LEGENDARY=candyUsed:true&rounded_level:85",
     "PET_SCATHA_LEGENDARY=candyUsed:true&rounded_level:90",
     "PET_SCATHA_LEGENDARY=candyUsed:true&rounded_level:95",
-    "PET_SCATHA_RARE=candyUsed:false&rounded_level:10",
-    "PET_SCATHA_RARE=candyUsed:false&rounded_level:100",
-    "PET_SCATHA_RARE=candyUsed:false&rounded_level:15",
-    "PET_SCATHA_RARE=candyUsed:false&rounded_level:20",
-    "PET_SCATHA_RARE=candyUsed:false&rounded_level:25",
-    "PET_SCATHA_RARE=candyUsed:false&rounded_level:30",
-    "PET_SCATHA_RARE=candyUsed:false&rounded_level:35",
-    "PET_SCATHA_RARE=candyUsed:false&rounded_level:40",
-    "PET_SCATHA_RARE=candyUsed:false&rounded_level:45",
-    "PET_SCATHA_RARE=candyUsed:false&rounded_level:5",
-    "PET_SCATHA_RARE=candyUsed:false&rounded_level:50",
-    "PET_SCATHA_RARE=candyUsed:false&rounded_level:55",
-    "PET_SCATHA_RARE=candyUsed:false&rounded_level:60",
-    "PET_SCATHA_RARE=candyUsed:false&rounded_level:65",
-    "PET_SCATHA_RARE=candyUsed:false&rounded_level:70",
-    "PET_SCATHA_RARE=candyUsed:false&rounded_level:75",
-    "PET_SCATHA_RARE=candyUsed:false&rounded_level:80",
-    "PET_SCATHA_RARE=candyUsed:false&rounded_level:85",
-    "PET_SCATHA_RARE=candyUsed:false&rounded_level:90",
-    "PET_SCATHA_RARE=candyUsed:false&rounded_level:95",
     "PET_SCATHA_RARE=candyUsed:true&rounded_level:10",
     "PET_SCATHA_RARE=candyUsed:true&rounded_level:100",
     "PET_SCATHA_RARE=candyUsed:true&rounded_level:15",
@@ -14305,6 +14160,7 @@
     "PRISMARINE:1=global:true",
     "PRISMARINE:2=global:true",
     "PRISMARINE=global:true",
+    "PROMISING_SPADE=global:true",
     "PROTECTOR_BABY=global:true",
     "PROTECTOR_SHIMMER=global:true",
     "PUMPKIN_LAUNCHER=global:true",
@@ -14325,13 +14181,8 @@
     "RAINBOW_RUNE_2=global:true",
     "RAINBOW_RUNE_3=global:true",
     "RAT_JETPACK=global:true",
-    "REAPER_BOOTS=global:true",
-    "REAPER_CHESTPLATE=global:true",
-    "REAPER_LEGGINGS=global:true",
     "REAPER_MASK=global:true",
-    "REAPER_SCYTHE=global:true",
     "REAPER_SPIRIT=global:true",
-    "REAPER_SWORD=global:true",
     "RECORD_11=global:true",
     "RECORD_5=global:true",
     "RED_ROSE:1=global:true",
@@ -14398,10 +14249,8 @@
     "SEAL_OF_THE_FAMILY=global:true",
     "SECRET_DUNGEON_REDSTONE_KEY=global:true",
     "SHADOW_ASSASSIN_ADMIRAL=global:true",
-    "SHADOW_ASSASSIN_CHESTPLATE=nil",
     "SHADOW_ASSASSIN_CRIMSON=global:true",
     "SHADOW_ASSASSIN_MAUVE=global:true",
-    "SHADOW_FURY=nil",
     "SHADOW_FURY=rarity_upgraded:true&smite:7",
     "SHADOW_FURY=rarity_upgraded:true&smite:7&stars:10",
     "SHADOW_FURY=rarity_upgraded:true&smite:7&stars:10&ultimate_combo:1",
@@ -14762,6 +14611,8 @@
     "SNOWFLAKE_THE_FISH=global:true",
     "SNOWGLOBE=global:true",
     "SNOWMAN=global:true",
+    "PINWHEEl_HOUSE_BARN_SKIN=global:true",
+    "FROG_BARN_SKIN=global:true",
     "SNOWMAN_PERSONALITY=global:true",
     "SOUL_SAND=global:true",
     "SOUL_WHIP=global:true",
@@ -16198,6 +16049,7 @@
     "TRAPPED_CHEST=global:true",
     "TRAPPER_CREST=global:true",
     "TRIPWIRE_HOOK=global:true",
+    "TROPICAL_BIRD_2_PERSONALITY=global:true",
     "TRUE_WARDEN=global:true",
     "UNDEAD_PERSONALITY=global:true",
     "UNSTABLE_BABY=global:true",
@@ -16243,13 +16095,9 @@
     "WINTER_ISLAND=global:true",
     "WISE_BABY=global:true",
     "WISE_SHIMMER=global:true",
-    "WITHER_BOOTS=global:true",
-    "WITHER_CHESTPLATE=global:true",
     "WITHER_GOGGLES=nil",
     "WITHER_GOGGLES_CELESTIAL=global:true",
     "WITHER_GOGGLES_CYBERPUNK=global:true",
-    "WITHER_HELMET=global:true",
-    "WITHER_LEGGINGS=global:true",
     "WIZARD_WAND=global:true",
     "WOOD:1=global:true",
     "WOOD:2=global:true",
@@ -16328,58 +16176,6 @@
     "AURORA_HELMET=global:true": {
       "profit": 3000000,
       "profit_percentage": 85
-    },
-    "AURORA_HELMET=mana_pool:1&mana_regeneration:1": {
-      "profit": 6000000,
-      "profit_percentage": 25
-    },
-    "AURORA_HELMET=mana_pool:2&mana_regeneration:1": {
-      "profit": 6000000,
-      "profit_percentage": 25
-    },
-    "AURORA_HELMET=mana_pool:1&mana_regeneration:2": {
-      "profit": 6000000,
-      "profit_percentage": 25
-    },
-    "AURORA_HELMET=mana_pool:2&mana_regeneration:2": {
-      "profit": 6000000,
-      "profit_percentage": 25
-    },
-    "AURORA_HELMET=mana_pool:3&mana_regeneration:2": {
-      "profit": 6000000,
-      "profit_percentage": 25
-    },
-    "AURORA_HELMET=mana_pool:2&mana_regeneration:3": {
-      "profit": 6000000,
-      "profit_percentage": 25
-    },
-    "AURORA_HELMET=mana_pool:3&mana_regeneration:3": {
-      "profit": 6000000,
-      "profit_percentage": 25
-    },
-    "AURORA_HELMET=mana_pool:4&mana_regeneration:3": {
-      "profit": 6000000,
-      "profit_percentage": 25
-    },
-    "AURORA_HELMET=mana_pool:3&mana_regeneration:4": {
-      "profit": 6000000,
-      "profit_percentage": 25
-    },
-    "AURORA_HELMET=mana_pool:4&mana_regeneration:4": {
-      "profit": 6000000,
-      "profit_percentage": 25
-    },
-    "AURORA_HELMET=mana_pool:5&mana_regeneration:4": {
-      "profit": 6000000,
-      "profit_percentage": 25
-    },
-    "AURORA_HELMET=mana_pool:4&mana_regeneration:5": {
-      "profit": 6000000,
-      "profit_percentage": 25
-    },
-    "AURORA_HELMET=mana_pool:5&mana_regeneration:5": {
-      "profit": 6000000,
-      "profit_percentage": 25
     },
     "AURORA_HELMET=arachno_resistance:1&mana_pool:1": {
       "profit": 6000000,
@@ -17738,55 +17534,55 @@
       "profit_percentage": 85
     },
     "AURORA_CHESTPLATE=mana_pool:1&mana_regeneration:1": {
-      "profit": 6000000,
+      "profit": 10000000,
       "profit_percentage": 10
     },
     "AURORA_CHESTPLATE=mana_pool:2&mana_regeneration:1": {
-      "profit": 6000000,
+      "profit": 50000000,
       "profit_percentage": 10
     },
     "AURORA_CHESTPLATE=mana_pool:1&mana_regeneration:2": {
-      "profit": 6000000,
+      "profit": 50000000,
       "profit_percentage": 10
     },
     "AURORA_CHESTPLATE=mana_pool:2&mana_regeneration:2": {
-      "profit": 6000000,
+      "profit": 50000000,
       "profit_percentage": 10
     },
     "AURORA_CHESTPLATE=mana_pool:3&mana_regeneration:2": {
-      "profit": 6000000,
+      "profit": 50000000,
       "profit_percentage": 10
     },
     "AURORA_CHESTPLATE=mana_pool:2&mana_regeneration:3": {
-      "profit": 6000000,
+      "profit": 50000000,
       "profit_percentage": 10
     },
     "AURORA_CHESTPLATE=mana_pool:3&mana_regeneration:3": {
-      "profit": 6000000,
+      "profit": 50000000,
       "profit_percentage": 10
     },
     "AURORA_CHESTPLATE=mana_pool:4&mana_regeneration:3": {
-      "profit": 6000000,
+      "profit": 50000000,
       "profit_percentage": 10
     },
     "AURORA_CHESTPLATE=mana_pool:3&mana_regeneration:4": {
-      "profit": 6000000,
+      "profit": 50000000,
       "profit_percentage": 10
     },
     "AURORA_CHESTPLATE=mana_pool:4&mana_regeneration:4": {
-      "profit": 6000000,
+      "profit": 50000000,
       "profit_percentage": 10
     },
     "AURORA_CHESTPLATE=mana_pool:5&mana_regeneration:4": {
-      "profit": 6000000,
+      "profit": 50000000,
       "profit_percentage": 10
     },
     "AURORA_CHESTPLATE=mana_pool:4&mana_regeneration:5": {
-      "profit": 6000000,
+      "profit": 50000000,
       "profit_percentage": 10
     },
     "AURORA_CHESTPLATE=mana_pool:5&mana_regeneration:5": {
-      "profit": 6000000,
+      "profit": 50000000,
       "profit_percentage": 10
     },
     "AURORA_CHESTPLATE=arachno_resistance:1&mana_pool:1": {
@@ -19146,55 +18942,55 @@
       "profit_percentage": 85
     },
     "AURORA_LEGGINGS=mana_pool:1&mana_regeneration:1": {
-      "profit": 6000000,
+      "profit": 10000000,
       "profit_percentage": 10
     },
     "AURORA_LEGGINGS=mana_pool:2&mana_regeneration:1": {
-      "profit": 6000000,
+      "profit": 50000000,
       "profit_percentage": 10
     },
     "AURORA_LEGGINGS=mana_pool:1&mana_regeneration:2": {
-      "profit": 6000000,
+      "profit": 50000000,
       "profit_percentage": 10
     },
     "AURORA_LEGGINGS=mana_pool:2&mana_regeneration:2": {
-      "profit": 6000000,
+      "profit": 50000000,
       "profit_percentage": 10
     },
     "AURORA_LEGGINGS=mana_pool:3&mana_regeneration:2": {
-      "profit": 6000000,
+      "profit": 50000000,
       "profit_percentage": 10
     },
     "AURORA_LEGGINGS=mana_pool:2&mana_regeneration:3": {
-      "profit": 6000000,
+      "profit": 50000000,
       "profit_percentage": 10
     },
     "AURORA_LEGGINGS=mana_pool:3&mana_regeneration:3": {
-      "profit": 6000000,
+      "profit": 50000000,
       "profit_percentage": 10
     },
     "AURORA_LEGGINGS=mana_pool:4&mana_regeneration:3": {
-      "profit": 6000000,
+      "profit": 50000000,
       "profit_percentage": 10
     },
     "AURORA_LEGGINGS=mana_pool:3&mana_regeneration:4": {
-      "profit": 6000000,
+      "profit": 50000000,
       "profit_percentage": 10
     },
     "AURORA_LEGGINGS=mana_pool:4&mana_regeneration:4": {
-      "profit": 6000000,
+      "profit": 50000000,
       "profit_percentage": 10
     },
     "AURORA_LEGGINGS=mana_pool:5&mana_regeneration:4": {
-      "profit": 6000000,
+      "profit": 50000000,
       "profit_percentage": 10
     },
     "AURORA_LEGGINGS=mana_pool:4&mana_regeneration:5": {
-      "profit": 6000000,
+      "profit": 50000000,
       "profit_percentage": 10
     },
     "AURORA_LEGGINGS=mana_pool:5&mana_regeneration:5": {
-      "profit": 6000000,
+      "profit": 50000000,
       "profit_percentage": 10
     },
     "AURORA_LEGGINGS=arachno_resistance:1&mana_pool:1": {
@@ -20554,55 +20350,55 @@
       "profit_percentage": 85
     },
     "AURORA_BOOTS=mana_pool:1&mana_regeneration:1": {
-      "profit": 6000000,
+      "profit": 10000000,
       "profit_percentage": 10
     },
     "AURORA_BOOTS=mana_pool:2&mana_regeneration:1": {
-      "profit": 6000000,
+      "profit": 50000000,
       "profit_percentage": 10
     },
     "AURORA_BOOTS=mana_pool:1&mana_regeneration:2": {
-      "profit": 6000000,
+      "profit": 50000000,
       "profit_percentage": 10
     },
     "AURORA_BOOTS=mana_pool:2&mana_regeneration:2": {
-      "profit": 6000000,
+      "profit": 50000000,
       "profit_percentage": 10
     },
     "AURORA_BOOTS=mana_pool:3&mana_regeneration:2": {
-      "profit": 6000000,
+      "profit": 50000000,
       "profit_percentage": 10
     },
     "AURORA_BOOTS=mana_pool:2&mana_regeneration:3": {
-      "profit": 6000000,
+      "profit": 50000000,
       "profit_percentage": 10
     },
     "AURORA_BOOTS=mana_pool:3&mana_regeneration:3": {
-      "profit": 6000000,
+      "profit": 50000000,
       "profit_percentage": 10
     },
     "AURORA_BOOTS=mana_pool:4&mana_regeneration:3": {
-      "profit": 6000000,
+      "profit": 50000000,
       "profit_percentage": 10
     },
     "AURORA_BOOTS=mana_pool:3&mana_regeneration:4": {
-      "profit": 6000000,
+      "profit": 50000000,
       "profit_percentage": 10
     },
     "AURORA_BOOTS=mana_pool:4&mana_regeneration:4": {
-      "profit": 6000000,
+      "profit": 50000000,
       "profit_percentage": 10
     },
     "AURORA_BOOTS=mana_pool:5&mana_regeneration:4": {
-      "profit": 6000000,
+      "profit": 50000000,
       "profit_percentage": 10
     },
     "AURORA_BOOTS=mana_pool:4&mana_regeneration:5": {
-      "profit": 6000000,
+      "profit": 50000000,
       "profit_percentage": 10
     },
     "AURORA_BOOTS=mana_pool:5&mana_regeneration:5": {
-      "profit": 6000000,
+      "profit": 50000000,
       "profit_percentage": 10
     },
     "AURORA_BOOTS=arachno_resistance:1&mana_pool:1": {
@@ -22041,58 +21837,6 @@
       "profit": 3000000,
       "profit_percentage": 85
     },
-    "CRIMSON_HELMET=magic_find:1&veteran:1": {
-      "profit": 6000000,
-      "profit_percentage": 25
-    },
-    "CRIMSON_HELMET=magic_find:2&veteran:1": {
-      "profit": 6000000,
-      "profit_percentage": 25
-    },
-    "CRIMSON_HELMET=magic_find:1&veteran:2": {
-      "profit": 6000000,
-      "profit_percentage": 25
-    },
-    "CRIMSON_HELMET=magic_find:2&veteran:2": {
-      "profit": 6000000,
-      "profit_percentage": 25
-    },
-    "CRIMSON_HELMET=magic_find:3&veteran:2": {
-      "profit": 6000000,
-      "profit_percentage": 25
-    },
-    "CRIMSON_HELMET=magic_find:2&veteran:3": {
-      "profit": 6000000,
-      "profit_percentage": 25
-    },
-    "CRIMSON_HELMET=magic_find:3&veteran:3": {
-      "profit": 6000000,
-      "profit_percentage": 25
-    },
-    "CRIMSON_HELMET=magic_find:3&veteran:4": {
-      "profit": 6000000,
-      "profit_percentage": 25
-    },
-    "CRIMSON_HELMET=magic_find:4&veteran:3": {
-      "profit": 6000000,
-      "profit_percentage": 25
-    },
-    "CRIMSON_HELMET=magic_find:4&veteran:4": {
-      "profit": 6000000,
-      "profit_percentage": 25
-    },
-    "CRIMSON_HELMET=magic_find:5&veteran:4": {
-      "profit": 6000000,
-      "profit_percentage": 25
-    },
-    "CRIMSON_HELMET=magic_find:4&veteran:5": {
-      "profit": 6000000,
-      "profit_percentage": 25
-    },
-    "CRIMSON_HELMET=magic_find:5&veteran:5": {
-      "profit": 6000000,
-      "profit_percentage": 25
-    },
     "CRIMSON_HELMET=mending:1&veteran:1": {
       "profit": 6000000,
       "profit_percentage": 25
@@ -23397,56 +23141,108 @@
       "profit": 3000000,
       "profit_percentage": 85
     },
+    "CRIMSON_CHESTPLATE=dominance:1&mending:1": {
+      "profit": 6000000,
+      "profit_percentage": 25
+    },
+    "CRIMSON_CHESTPLATE=dominance:2&mending:1": {
+      "profit": 6000000,
+      "profit_percentage": 25
+    },
+    "CRIMSON_CHESTPLATE=dominance:1&mending:2": {
+      "profit": 6000000,
+      "profit_percentage": 25
+    },
+    "CRIMSON_CHESTPLATE=dominance:2&mending:2": {
+      "profit": 6000000,
+      "profit_percentage": 25
+    },
+    "CRIMSON_CHESTPLATE=dominance:3&mending:2": {
+      "profit": 6000000,
+      "profit_percentage": 25
+    },
+    "CRIMSON_CHESTPLATE=dominance:2&mending:3": {
+      "profit": 6000000,
+      "profit_percentage": 25
+    },
+    "CRIMSON_CHESTPLATE=dominance:3&mending:3": {
+      "profit": 6000000,
+      "profit_percentage": 25
+    },
+    "CRIMSON_CHESTPLATE=dominance:4&mending:3": {
+      "profit": 6000000,
+      "profit_percentage": 25
+    },
+    "CRIMSON_CHESTPLATE=dominance:3&mending:4": {
+      "profit": 6000000,
+      "profit_percentage": 25
+    },
+    "CRIMSON_CHESTPLATE=dominance:4&mending:4": {
+      "profit": 6000000,
+      "profit_percentage": 25
+    },
+    "CRIMSON_CHESTPLATE=dominance:5&mending:4": {
+      "profit": 6000000,
+      "profit_percentage": 25
+    },
+    "CRIMSON_CHESTPLATE=dominance:4&mending:5": {
+      "profit": 6000000,
+      "profit_percentage": 25
+    },
+    "CRIMSON_CHESTPLATE=dominance:5&mending:5": {
+      "profit": 6000000,
+      "profit_percentage": 25
+    },
     "CRIMSON_CHESTPLATE=magic_find:1&veteran:1": {
       "profit": 6000000,
       "profit_percentage": 10
     },
     "CRIMSON_CHESTPLATE=magic_find:2&veteran:1": {
-      "profit": 6000000,
+      "profit": 50000000,
       "profit_percentage": 10
     },
     "CRIMSON_CHESTPLATE=magic_find:1&veteran:2": {
-      "profit": 6000000,
+      "profit": 50000000,
       "profit_percentage": 10
     },
     "CRIMSON_CHESTPLATE=magic_find:2&veteran:2": {
-      "profit": 6000000,
+      "profit": 50000000,
       "profit_percentage": 10
     },
     "CRIMSON_CHESTPLATE=magic_find:3&veteran:2": {
-      "profit": 6000000,
+      "profit": 50000000,
       "profit_percentage": 10
     },
     "CRIMSON_CHESTPLATE=magic_find:2&veteran:3": {
-      "profit": 6000000,
+      "profit": 50000000,
       "profit_percentage": 10
     },
     "CRIMSON_CHESTPLATE=magic_find:3&veteran:3": {
-      "profit": 6000000,
+      "profit": 50000000,
       "profit_percentage": 10
     },
     "CRIMSON_CHESTPLATE=magic_find:3&veteran:4": {
-      "profit": 6000000,
+      "profit": 50000000,
       "profit_percentage": 10
     },
     "CRIMSON_CHESTPLATE=magic_find:4&veteran:3": {
-      "profit": 6000000,
+      "profit": 50000000,
       "profit_percentage": 10
     },
     "CRIMSON_CHESTPLATE=magic_find:4&veteran:4": {
-      "profit": 6000000,
+      "profit": 50000000,
       "profit_percentage": 10
     },
     "CRIMSON_CHESTPLATE=magic_find:5&veteran:4": {
-      "profit": 6000000,
+      "profit": 50000000,
       "profit_percentage": 10
     },
     "CRIMSON_CHESTPLATE=magic_find:4&veteran:5": {
-      "profit": 6000000,
+      "profit": 50000000,
       "profit_percentage": 10
     },
     "CRIMSON_CHESTPLATE=magic_find:5&veteran:5": {
-      "profit": 6000000,
+      "profit": 50000000,
       "profit_percentage": 10
     },
     "CRIMSON_CHESTPLATE=mending:1&veteran:1": {
@@ -24749,9 +24545,113 @@
       "profit": 6000000,
       "profit_percentage": 10
     },
+    "CRIMSON_CHESTPLATE=dominance:1&veteran:1": {
+      "profit": 6000000,
+      "profit_percentage": 25
+    },
+    "CRIMSON_CHESTPLATE=dominance:2&veteran:1": {
+      "profit": 6000000,
+      "profit_percentage": 25
+    },
+    "CRIMSON_CHESTPLATE=dominance:1&veteran:2": {
+      "profit": 6000000,
+      "profit_percentage": 25
+    },
+    "CRIMSON_CHESTPLATE=dominance:2&veteran:2": {
+      "profit": 6000000,
+      "profit_percentage": 25
+    },
+    "CRIMSON_CHESTPLATE=dominance:3&veteran:2": {
+      "profit": 6000000,
+      "profit_percentage": 25
+    },
+    "CRIMSON_CHESTPLATE=dominance:2&veteran:3": {
+      "profit": 6000000,
+      "profit_percentage": 25
+    },
+    "CRIMSON_CHESTPLATE=dominance:3&veteran:3": {
+      "profit": 6000000,
+      "profit_percentage": 25
+    },
+    "CRIMSON_CHESTPLATE=dominance:4&veteran:3": {
+      "profit": 6000000,
+      "profit_percentage": 25
+    },
+    "CRIMSON_CHESTPLATE=dominance:3&veteran:4": {
+      "profit": 6000000,
+      "profit_percentage": 25
+    },
+    "CRIMSON_CHESTPLATE=dominance:4&veteran:4": {
+      "profit": 6000000,
+      "profit_percentage": 25
+    },
+    "CRIMSON_CHESTPLATE=dominance:5&veteran:4": {
+      "profit": 6000000,
+      "profit_percentage": 25
+    },
+    "CRIMSON_CHESTPLATE=dominance:4&veteran:5": {
+      "profit": 6000000,
+      "profit_percentage": 25
+    },
+    "CRIMSON_CHESTPLATE=dominance:5&veteran:5": {
+      "profit": 6000000,
+      "profit_percentage": 25
+    },
     "CRIMSON_LEGGINGS=global:true": {
       "profit": 3000000,
       "profit_percentage": 85
+    },
+    "CRIMSON_LEGGINGS=dominance:1&mending:1": {
+      "profit": 6000000,
+      "profit_percentage": 25
+    },
+    "CRIMSON_LEGGINGS=dominance:2&mending:1": {
+      "profit": 6000000,
+      "profit_percentage": 25
+    },
+    "CRIMSON_LEGGINGS=dominance:1&mending:2": {
+      "profit": 6000000,
+      "profit_percentage": 25
+    },
+    "CRIMSON_LEGGINGS=dominance:2&mending:2": {
+      "profit": 6000000,
+      "profit_percentage": 25
+    },
+    "CRIMSON_LEGGINGS=dominance:3&mending:2": {
+      "profit": 6000000,
+      "profit_percentage": 25
+    },
+    "CRIMSON_LEGGINGS=dominance:2&mending:3": {
+      "profit": 6000000,
+      "profit_percentage": 25
+    },
+    "CRIMSON_LEGGINGS=dominance:3&mending:3": {
+      "profit": 6000000,
+      "profit_percentage": 25
+    },
+    "CRIMSON_LEGGINGS=dominance:4&mending:3": {
+      "profit": 6000000,
+      "profit_percentage": 25
+    },
+    "CRIMSON_LEGGINGS=dominance:3&mending:4": {
+      "profit": 6000000,
+      "profit_percentage": 25
+    },
+    "CRIMSON_LEGGINGS=dominance:4&mending:4": {
+      "profit": 6000000,
+      "profit_percentage": 25
+    },
+    "CRIMSON_LEGGINGS=dominance:5&mending:4": {
+      "profit": 6000000,
+      "profit_percentage": 25
+    },
+    "CRIMSON_LEGGINGS=dominance:4&mending:5": {
+      "profit": 6000000,
+      "profit_percentage": 25
+    },
+    "CRIMSON_LEGGINGS=dominance:5&mending:5": {
+      "profit": 6000000,
+      "profit_percentage": 25
     },
     "CRIMSON_LEGGINGS=magic_find:1&veteran:1": {
       "profit": 6000000,
@@ -24762,47 +24662,47 @@
       "profit_percentage": 10
     },
     "CRIMSON_LEGGINGS=magic_find:1&veteran:2": {
-      "profit": 6000000,
+      "profit": 50000000,
       "profit_percentage": 10
     },
     "CRIMSON_LEGGINGS=magic_find:2&veteran:2": {
-      "profit": 6000000,
+      "profit": 50000000,
       "profit_percentage": 10
     },
     "CRIMSON_LEGGINGS=magic_find:3&veteran:2": {
-      "profit": 6000000,
+      "profit": 50000000,
       "profit_percentage": 10
     },
     "CRIMSON_LEGGINGS=magic_find:2&veteran:3": {
-      "profit": 6000000,
+      "profit": 50000000,
       "profit_percentage": 10
     },
     "CRIMSON_LEGGINGS=magic_find:3&veteran:3": {
-      "profit": 6000000,
+      "profit": 50000000,
       "profit_percentage": 10
     },
     "CRIMSON_LEGGINGS=magic_find:3&veteran:4": {
-      "profit": 6000000,
+      "profit": 50000000,
       "profit_percentage": 10
     },
     "CRIMSON_LEGGINGS=magic_find:4&veteran:3": {
-      "profit": 6000000,
+      "profit": 50000000,
       "profit_percentage": 10
     },
     "CRIMSON_LEGGINGS=magic_find:4&veteran:4": {
-      "profit": 6000000,
+      "profit": 50000000,
       "profit_percentage": 10
     },
     "CRIMSON_LEGGINGS=magic_find:5&veteran:4": {
-      "profit": 6000000,
+      "profit": 50000000,
       "profit_percentage": 10
     },
     "CRIMSON_LEGGINGS=magic_find:4&veteran:5": {
-      "profit": 6000000,
+      "profit": 50000000,
       "profit_percentage": 10
     },
     "CRIMSON_LEGGINGS=magic_find:5&veteran:5": {
-      "profit": 6000000,
+      "profit": 50000000,
       "profit_percentage": 10
     },
     "CRIMSON_LEGGINGS=mending:1&veteran:1": {
@@ -25270,110 +25170,6 @@
       "profit_percentage": 10
     },
     "CRIMSON_LEGGINGS=lifeline:5&magic_find:5": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "CRIMSON_LEGGINGS=magic_find:1&mana_pool:1": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "CRIMSON_LEGGINGS=magic_find:2&mana_pool:1": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "CRIMSON_LEGGINGS=magic_find:1&mana_pool:2": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "CRIMSON_LEGGINGS=magic_find:2&mana_pool:2": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "CRIMSON_LEGGINGS=magic_find:3&mana_pool:2": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "CRIMSON_LEGGINGS=magic_find:2&mana_pool:3": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "CRIMSON_LEGGINGS=magic_find:3&mana_pool:3": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "CRIMSON_LEGGINGS=magic_find:4&mana_pool:3": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "CRIMSON_LEGGINGS=magic_find:3&mana_pool:4": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "CRIMSON_LEGGINGS=magic_find:4&mana_pool:4": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "CRIMSON_LEGGINGS=magic_find:5&mana_pool:4": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "CRIMSON_LEGGINGS=magic_find:4&mana_pool:5": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "CRIMSON_LEGGINGS=magic_find:5&mana_pool:5": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "CRIMSON_LEGGINGS=magic_find:1&mana_regeneration:1": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "CRIMSON_LEGGINGS=magic_find:2&mana_regeneration:1": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "CRIMSON_LEGGINGS=magic_find:1&mana_regeneration:2": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "CRIMSON_LEGGINGS=magic_find:2&mana_regeneration:2": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "CRIMSON_LEGGINGS=magic_find:3&mana_regeneration:2": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "CRIMSON_LEGGINGS=magic_find:2&mana_regeneration:3": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "CRIMSON_LEGGINGS=magic_find:3&mana_regeneration:3": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "CRIMSON_LEGGINGS=magic_find:4&mana_regeneration:3": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "CRIMSON_LEGGINGS=magic_find:3&mana_regeneration:4": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "CRIMSON_LEGGINGS=magic_find:4&mana_regeneration:4": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "CRIMSON_LEGGINGS=magic_find:5&mana_regeneration:4": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "CRIMSON_LEGGINGS=magic_find:4&mana_regeneration:5": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "CRIMSON_LEGGINGS=magic_find:5&mana_regeneration:5": {
       "profit": 6000000,
       "profit_percentage": 10
     },
@@ -25897,110 +25693,6 @@
       "profit": 6000000,
       "profit_percentage": 10
     },
-    "CRIMSON_LEGGINGS=mana_pool:1&veteran:1": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "CRIMSON_LEGGINGS=mana_pool:2&veteran:1": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "CRIMSON_LEGGINGS=mana_pool:1&veteran:2": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "CRIMSON_LEGGINGS=mana_pool:2&veteran:2": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "CRIMSON_LEGGINGS=mana_pool:3&veteran:2": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "CRIMSON_LEGGINGS=mana_pool:2&veteran:3": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "CRIMSON_LEGGINGS=mana_pool:3&veteran:3": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "CRIMSON_LEGGINGS=mana_pool:4&veteran:3": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "CRIMSON_LEGGINGS=mana_pool:3&veteran:4": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "CRIMSON_LEGGINGS=mana_pool:4&veteran:4": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "CRIMSON_LEGGINGS=mana_pool:5&veteran:4": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "CRIMSON_LEGGINGS=mana_pool:4&veteran:5": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "CRIMSON_LEGGINGS=mana_pool:5&veteran:5": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "CRIMSON_LEGGINGS=mana_regeneration:1&veteran:1": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "CRIMSON_LEGGINGS=mana_regeneration:2&veteran:1": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "CRIMSON_LEGGINGS=mana_regeneration:1&veteran:2": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "CRIMSON_LEGGINGS=mana_regeneration:2&veteran:2": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "CRIMSON_LEGGINGS=mana_regeneration:3&veteran:2": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "CRIMSON_LEGGINGS=mana_regeneration:2&veteran:3": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "CRIMSON_LEGGINGS=mana_regeneration:3&veteran:3": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "CRIMSON_LEGGINGS=mana_regeneration:4&veteran:3": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "CRIMSON_LEGGINGS=mana_regeneration:3&veteran:4": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "CRIMSON_LEGGINGS=mana_regeneration:4&veteran:4": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "CRIMSON_LEGGINGS=mana_regeneration:5&veteran:4": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "CRIMSON_LEGGINGS=mana_regeneration:4&veteran:5": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "CRIMSON_LEGGINGS=mana_regeneration:5&veteran:5": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
     "CRIMSON_LEGGINGS=speed:1&veteran:1": {
       "profit": 6000000,
       "profit_percentage": 10
@@ -26105,60 +25797,216 @@
       "profit": 6000000,
       "profit_percentage": 10
     },
+    "CRIMSON_LEGGINGS=dominance:1&veteran:1": {
+      "profit": 6000000,
+      "profit_percentage": 25
+    },
+    "CRIMSON_LEGGINGS=dominance:2&veteran:1": {
+      "profit": 6000000,
+      "profit_percentage": 25
+    },
+    "CRIMSON_LEGGINGS=dominance:1&veteran:2": {
+      "profit": 6000000,
+      "profit_percentage": 25
+    },
+    "CRIMSON_LEGGINGS=dominance:2&veteran:2": {
+      "profit": 6000000,
+      "profit_percentage": 25
+    },
+    "CRIMSON_LEGGINGS=dominance:3&veteran:2": {
+      "profit": 6000000,
+      "profit_percentage": 25
+    },
+    "CRIMSON_LEGGINGS=dominance:2&veteran:3": {
+      "profit": 6000000,
+      "profit_percentage": 25
+    },
+    "CRIMSON_LEGGINGS=dominance:3&veteran:3": {
+      "profit": 6000000,
+      "profit_percentage": 25
+    },
+    "CRIMSON_LEGGINGS=dominance:4&veteran:3": {
+      "profit": 6000000,
+      "profit_percentage": 25
+    },
+    "CRIMSON_LEGGINGS=dominance:3&veteran:4": {
+      "profit": 6000000,
+      "profit_percentage": 25
+    },
+    "CRIMSON_LEGGINGS=dominance:4&veteran:4": {
+      "profit": 6000000,
+      "profit_percentage": 25
+    },
+    "CRIMSON_LEGGINGS=dominance:5&veteran:4": {
+      "profit": 6000000,
+      "profit_percentage": 25
+    },
+    "CRIMSON_LEGGINGS=dominance:4&veteran:5": {
+      "profit": 6000000,
+      "profit_percentage": 25
+    },
+    "CRIMSON_LEGGINGS=dominance:5&veteran:5": {
+      "profit": 6000000,
+      "profit_percentage": 25
+    },
     "CRIMSON_BOOTS=global:true": {
       "profit": 3000000,
       "profit_percentage": 85
+    },
+    "CRIMSON_BOOTS=dominance:1&mending:1": {
+      "profit": 6000000,
+      "profit_percentage": 25
+    },
+    "CRIMSON_BOOTS=dominance:2&mending:1": {
+      "profit": 6000000,
+      "profit_percentage": 25
+    },
+    "CRIMSON_BOOTS=dominance:1&mending:2": {
+      "profit": 6000000,
+      "profit_percentage": 25
+    },
+    "CRIMSON_BOOTS=dominance:2&mending:2": {
+      "profit": 6000000,
+      "profit_percentage": 25
+    },
+    "CRIMSON_BOOTS=dominance:3&mending:2": {
+      "profit": 6000000,
+      "profit_percentage": 25
+    },
+    "CRIMSON_BOOTS=dominance:2&mending:3": {
+      "profit": 6000000,
+      "profit_percentage": 25
+    },
+    "CRIMSON_BOOTS=dominance:3&mending:3": {
+      "profit": 6000000,
+      "profit_percentage": 25
+    },
+    "CRIMSON_BOOTS=dominance:4&mending:3": {
+      "profit": 6000000,
+      "profit_percentage": 25
+    },
+    "CRIMSON_BOOTS=dominance:3&mending:4": {
+      "profit": 6000000,
+      "profit_percentage": 25
+    },
+    "CRIMSON_BOOTS=dominance:4&mending:4": {
+      "profit": 6000000,
+      "profit_percentage": 25
+    },
+    "CRIMSON_BOOTS=dominance:5&mending:4": {
+      "profit": 6000000,
+      "profit_percentage": 25
+    },
+    "CRIMSON_BOOTS=dominance:4&mending:5": {
+      "profit": 6000000,
+      "profit_percentage": 25
+    },
+    "CRIMSON_BOOTS=dominance:5&mending:5": {
+      "profit": 6000000,
+      "profit_percentage": 25
+    },
+    "CRIMSON_BOOTS=dominance:1&veteran:1": {
+      "profit": 6000000,
+      "profit_percentage": 25
+    },
+    "CRIMSON_BOOTS=dominance:2&veteran:1": {
+      "profit": 6000000,
+      "profit_percentage": 25
+    },
+    "CRIMSON_BOOTS=dominance:1&veteran:2": {
+      "profit": 6000000,
+      "profit_percentage": 25
+    },
+    "CRIMSON_BOOTS=dominance:2&veteran:2": {
+      "profit": 6000000,
+      "profit_percentage": 25
+    },
+    "CRIMSON_BOOTS=dominance:3&veteran:2": {
+      "profit": 6000000,
+      "profit_percentage": 25
+    },
+    "CRIMSON_BOOTS=dominance:2&veteran:3": {
+      "profit": 6000000,
+      "profit_percentage": 25
+    },
+    "CRIMSON_BOOTS=dominance:3&veteran:3": {
+      "profit": 6000000,
+      "profit_percentage": 25
+    },
+    "CRIMSON_BOOTS=dominance:4&veteran:3": {
+      "profit": 6000000,
+      "profit_percentage": 25
+    },
+    "CRIMSON_BOOTS=dominance:3&veteran:4": {
+      "profit": 6000000,
+      "profit_percentage": 25
+    },
+    "CRIMSON_BOOTS=dominance:4&veteran:4": {
+      "profit": 6000000,
+      "profit_percentage": 25
+    },
+    "CRIMSON_BOOTS=dominance:5&veteran:4": {
+      "profit": 6000000,
+      "profit_percentage": 25
+    },
+    "CRIMSON_BOOTS=dominance:4&veteran:5": {
+      "profit": 6000000,
+      "profit_percentage": 25
+    },
+    "CRIMSON_BOOTS=dominance:5&veteran:5": {
+      "profit": 6000000,
+      "profit_percentage": 25
     },
     "CRIMSON_BOOTS=magic_find:1&veteran:1": {
       "profit": 6000000,
       "profit_percentage": 10
     },
     "CRIMSON_BOOTS=magic_find:2&veteran:1": {
-      "profit": 6000000,
+      "profit": 50000000,
       "profit_percentage": 10
     },
     "CRIMSON_BOOTS=magic_find:1&veteran:2": {
-      "profit": 6000000,
+      "profit": 50000000,
       "profit_percentage": 10
     },
     "CRIMSON_BOOTS=magic_find:2&veteran:2": {
-      "profit": 6000000,
+      "profit": 50000000,
       "profit_percentage": 10
     },
     "CRIMSON_BOOTS=magic_find:3&veteran:2": {
-      "profit": 6000000,
+      "profit": 50000000,
       "profit_percentage": 10
     },
     "CRIMSON_BOOTS=magic_find:2&veteran:3": {
-      "profit": 6000000,
+      "profit": 50000000,
       "profit_percentage": 10
     },
     "CRIMSON_BOOTS=magic_find:3&veteran:3": {
-      "profit": 6000000,
+      "profit": 50000000,
       "profit_percentage": 10
     },
     "CRIMSON_BOOTS=magic_find:3&veteran:4": {
-      "profit": 6000000,
+      "profit": 50000000,
       "profit_percentage": 10
     },
     "CRIMSON_BOOTS=magic_find:4&veteran:3": {
-      "profit": 6000000,
+      "profit": 50000000,
       "profit_percentage": 10
     },
     "CRIMSON_BOOTS=magic_find:4&veteran:4": {
-      "profit": 6000000,
+      "profit": 50000000,
       "profit_percentage": 10
     },
     "CRIMSON_BOOTS=magic_find:5&veteran:4": {
-      "profit": 6000000,
+      "profit": 50000000,
       "profit_percentage": 10
     },
     "CRIMSON_BOOTS=magic_find:4&veteran:5": {
-      "profit": 6000000,
+      "profit": 50000000,
       "profit_percentage": 10
     },
     "CRIMSON_BOOTS=magic_find:5&veteran:5": {
-      "profit": 6000000,
+      "profit": 50000000,
       "profit_percentage": 10
     },
     "CRIMSON_BOOTS=mending:1&veteran:1": {
@@ -27465,165 +27313,21 @@
       "profit": 5000000,
       "profit_percentage": 30
     },
-    "MOLTEN_NECKLACE=global:true": {
-      "profit": 3000000,
-      "profit_percentage": 85
+    "FERMENTO_HELMET=global:true": {
+      "profit": 7500000,
+      "profit_percentage": 15
     },
-    "MOLTEN_NECKLACE=magic_find:1&veteran:1": {
-      "profit": 6000000,
-      "profit_percentage": 10
+    "FERMENTO_CHESTPLATE=global:true": {
+      "profit": 7500000,
+      "profit_percentage": 15
     },
-    "MOLTEN_NECKLACE=magic_find:2&veteran:1": {
-      "profit": 6000000,
-      "profit_percentage": 10
+    "FERMENTO_LEGGINGS=global:true": {
+      "profit": 7500000,
+      "profit_percentage": 15
     },
-    "MOLTEN_NECKLACE=magic_find:1&veteran:2": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "MOLTEN_NECKLACE=magic_find:2&veteran:2": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "MOLTEN_NECKLACE=magic_find:3&veteran:2": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "MOLTEN_NECKLACE=magic_find:2&veteran:3": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "MOLTEN_NECKLACE=magic_find:3&veteran:3": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "MOLTEN_NECKLACE=magic_find:4&veteran:3": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "MOLTEN_NECKLACE=magic_find:3&veteran:4": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "MOLTEN_NECKLACE=magic_find:4&veteran:4": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "MOLTEN_NECKLACE=magic_find:5&veteran:4": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "MOLTEN_NECKLACE=magic_find:4&veteran:5": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "MOLTEN_NECKLACE=magic_find:5&veteran:5": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "MOLTEN_NECKLACE=dominance:1&speed:1": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "MOLTEN_NECKLACE=dominance:2&speed:1": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "MOLTEN_NECKLACE=dominance:1&speed:2": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "MOLTEN_NECKLACE=dominance:2&speed:2": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "MOLTEN_NECKLACE=dominance:3&speed:2": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "MOLTEN_NECKLACE=dominance:2&speed:3": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "MOLTEN_NECKLACE=dominance:3&speed:3": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "MOLTEN_NECKLACE=dominance:4&speed:3": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "MOLTEN_NECKLACE=dominance:3&speed:4": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "MOLTEN_NECKLACE=dominance:4&speed:4": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "MOLTEN_NECKLACE=dominance:5&speed:4": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "MOLTEN_NECKLACE=dominance:4&speed:5": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "MOLTEN_NECKLACE=dominance:5&speed:5": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "MOLTEN_NECKLACE=mana_pool:1&mana_regeneration:1": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "MOLTEN_NECKLACE=mana_pool:2&mana_regeneration:1": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "MOLTEN_NECKLACE=mana_pool:1&mana_regeneration:2": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "MOLTEN_NECKLACE=mana_pool:2&mana_regeneration:2": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "MOLTEN_NECKLACE=mana_pool:3&mana_regeneration:2": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "MOLTEN_NECKLACE=mana_pool:2&mana_regeneration:3": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "MOLTEN_NECKLACE=mana_pool:3&mana_regeneration:3": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "MOLTEN_NECKLACE=mana_pool:4&mana_regeneration:3": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "MOLTEN_NECKLACE=mana_pool:3&mana_regeneration:4": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "MOLTEN_NECKLACE=mana_pool:4&mana_regeneration:4": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "MOLTEN_NECKLACE=mana_pool:5&mana_regeneration:4": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "MOLTEN_NECKLACE=mana_pool:4&mana_regeneration:5": {
-      "profit": 6000000,
-      "profit_percentage": 10
-    },
-    "MOLTEN_NECKLACE=mana_pool:5&mana_regeneration:5": {
-      "profit": 6000000,
-      "profit_percentage": 10
+    "FERMENTO_BOOTS=global:true": {
+      "profit": 7500000,
+      "profit_percentage": 15
     },
     "MOLTEN_NECKLACE=arachno_resistance:1&mana_pool:1": {
       "profit": 6000000,
@@ -30641,9 +30345,113 @@
       "profit": 6000000,
       "profit_percentage": 10
     },
+    "MOLTEN_NECKLACE=dominance:1&mending:1": {
+      "profit": 6000000,
+      "profit_percentage": 20
+    },
+    "MOLTEN_NECKLACE=dominance:2&mending:1": {
+      "profit": 6000000,
+      "profit_percentage": 20
+    },
+    "MOLTEN_NECKLACE=dominance:1&mending:2": {
+      "profit": 6000000,
+      "profit_percentage": 20
+    },
+    "MOLTEN_NECKLACE=dominance:2&mending:2": {
+      "profit": 6000000,
+      "profit_percentage": 20
+    },
+    "MOLTEN_NECKLACE=dominance:3&mending:2": {
+      "profit": 6000000,
+      "profit_percentage": 20
+    },
+    "MOLTEN_NECKLACE=dominance:2&mending:3": {
+      "profit": 6000000,
+      "profit_percentage": 20
+    },
+    "MOLTEN_NECKLACE=dominance:3&mending:3": {
+      "profit": 6000000,
+      "profit_percentage": 20
+    },
+    "MOLTEN_NECKLACE=dominance:4&mending:3": {
+      "profit": 6000000,
+      "profit_percentage": 20
+    },
+    "MOLTEN_NECKLACE=dominance:3&mending:4": {
+      "profit": 6000000,
+      "profit_percentage": 20
+    },
+    "MOLTEN_NECKLACE=dominance:4&mending:4": {
+      "profit": 6000000,
+      "profit_percentage": 20
+    },
+    "MOLTEN_NECKLACE=dominance:5&mending:4": {
+      "profit": 6000000,
+      "profit_percentage": 20
+    },
+    "MOLTEN_NECKLACE=dominance:4&mending:5": {
+      "profit": 6000000,
+      "profit_percentage": 20
+    },
+    "MOLTEN_NECKLACE=dominance:5&mending:5": {
+      "profit": 6000000,
+      "profit_percentage": 20
+    },
     "MOLTEN_CLOAK=global:true": {
       "profit": 3000000,
       "profit_percentage": 85
+    },
+    "MOLTEN_CLOAK=dominance:1&mending:1": {
+      "profit": 6000000,
+      "profit_percentage": 20
+    },
+    "MOLTEN_CLOAK=dominance:2&mending:1": {
+      "profit": 6000000,
+      "profit_percentage": 20
+    },
+    "MOLTEN_CLOAK=dominance:1&mending:2": {
+      "profit": 6000000,
+      "profit_percentage": 20
+    },
+    "MOLTEN_CLOAK=dominance:2&mending:2": {
+      "profit": 6000000,
+      "profit_percentage": 20
+    },
+    "MOLTEN_CLOAK=dominance:3&mending:2": {
+      "profit": 6000000,
+      "profit_percentage": 20
+    },
+    "MOLTEN_CLOAK=dominance:2&mending:3": {
+      "profit": 6000000,
+      "profit_percentage": 20
+    },
+    "MOLTEN_CLOAK=dominance:3&mending:3": {
+      "profit": 6000000,
+      "profit_percentage": 20
+    },
+    "MOLTEN_CLOAK=dominance:4&mending:3": {
+      "profit": 6000000,
+      "profit_percentage": 20
+    },
+    "MOLTEN_CLOAK=dominance:3&mending:4": {
+      "profit": 6000000,
+      "profit_percentage": 20
+    },
+    "MOLTEN_CLOAK=dominance:4&mending:4": {
+      "profit": 6000000,
+      "profit_percentage": 20
+    },
+    "MOLTEN_CLOAK=dominance:5&mending:4": {
+      "profit": 6000000,
+      "profit_percentage": 20
+    },
+    "MOLTEN_CLOAK=dominance:4&mending:5": {
+      "profit": 6000000,
+      "profit_percentage": 20
+    },
+    "MOLTEN_CLOAK=dominance:5&mending:5": {
+      "profit": 6000000,
+      "profit_percentage": 20
     },
     "MOLTEN_CLOAK=magic_find:1&veteran:1": {
       "profit": 6000000,
@@ -30698,55 +30506,55 @@
       "profit_percentage": 10
     },
     "MOLTEN_CLOAK=dominance:1&speed:1": {
-      "profit": 6000000,
+      "profit": 30000000,
       "profit_percentage": 10
     },
     "MOLTEN_CLOAK=dominance:2&speed:1": {
-      "profit": 6000000,
+      "profit": 30000000,
       "profit_percentage": 10
     },
     "MOLTEN_CLOAK=dominance:1&speed:2": {
-      "profit": 6000000,
+      "profit": 30000000,
       "profit_percentage": 10
     },
     "MOLTEN_CLOAK=dominance:2&speed:2": {
-      "profit": 6000000,
+      "profit": 30000000,
       "profit_percentage": 10
     },
     "MOLTEN_CLOAK=dominance:3&speed:2": {
-      "profit": 6000000,
+      "profit": 30000000,
       "profit_percentage": 10
     },
     "MOLTEN_CLOAK=dominance:2&speed:3": {
-      "profit": 6000000,
+      "profit": 30000000,
       "profit_percentage": 10
     },
     "MOLTEN_CLOAK=dominance:3&speed:3": {
-      "profit": 6000000,
+      "profit": 30000000,
       "profit_percentage": 10
     },
     "MOLTEN_CLOAK=dominance:4&speed:3": {
-      "profit": 6000000,
+      "profit": 30000000,
       "profit_percentage": 10
     },
     "MOLTEN_CLOAK=dominance:3&speed:4": {
-      "profit": 6000000,
+      "profit": 30000000,
       "profit_percentage": 10
     },
     "MOLTEN_CLOAK=dominance:4&speed:4": {
-      "profit": 6000000,
+      "profit": 30000000,
       "profit_percentage": 10
     },
     "MOLTEN_CLOAK=dominance:5&speed:4": {
-      "profit": 6000000,
+      "profit": 30000000,
       "profit_percentage": 10
     },
     "MOLTEN_CLOAK=dominance:4&speed:5": {
-      "profit": 6000000,
+      "profit": 30000000,
       "profit_percentage": 10
     },
     "MOLTEN_CLOAK=dominance:5&speed:5": {
-      "profit": 6000000,
+      "profit": 30000000,
       "profit_percentage": 10
     },
     "MOLTEN_CLOAK=mana_pool:1&mana_regeneration:1": {
@@ -33817,166 +33625,6 @@
       "profit": 6000000,
       "profit_percentage": 10
     },
-    "MOLTEN_BELT=global:true": {
-      "profit": 2000000,
-      "profit_percentage": 85
-    },
-    "MOLTEN_BELT=magic_find:1&veteran:1": {
-      "profit": 6000000,
-      "profit_percentage": 22.5
-    },
-    "MOLTEN_BELT=magic_find:2&veteran:1": {
-      "profit": 6000000,
-      "profit_percentage": 22.5
-    },
-    "MOLTEN_BELT=magic_find:1&veteran:2": {
-      "profit": 6000000,
-      "profit_percentage": 22.5
-    },
-    "MOLTEN_BELT=magic_find:2&veteran:2": {
-      "profit": 6000000,
-      "profit_percentage": 22.5
-    },
-    "MOLTEN_BELT=magic_find:3&veteran:2": {
-      "profit": 6000000,
-      "profit_percentage": 22.5
-    },
-    "MOLTEN_BELT=magic_find:2&veteran:3": {
-      "profit": 6000000,
-      "profit_percentage": 22.5
-    },
-    "MOLTEN_BELT=magic_find:3&veteran:3": {
-      "profit": 6000000,
-      "profit_percentage": 22.5
-    },
-    "MOLTEN_BELT=magic_find:4&veteran:3": {
-      "profit": 6000000,
-      "profit_percentage": 22.5
-    },
-    "MOLTEN_BELT=magic_find:3&veteran:4": {
-      "profit": 6000000,
-      "profit_percentage": 22.5
-    },
-    "MOLTEN_BELT=magic_find:4&veteran:4": {
-      "profit": 6000000,
-      "profit_percentage": 22.5
-    },
-    "MOLTEN_BELT=magic_find:5&veteran:4": {
-      "profit": 6000000,
-      "profit_percentage": 22.5
-    },
-    "MOLTEN_BELT=magic_find:4&veteran:5": {
-      "profit": 6000000,
-      "profit_percentage": 22.5
-    },
-    "MOLTEN_BELT=magic_find:5&veteran:5": {
-      "profit": 6000000,
-      "profit_percentage": 22.5
-    },
-    "MOLTEN_BELT=dominance:1&speed:1": {
-      "profit": 6000000,
-      "profit_percentage": 22.5
-    },
-    "MOLTEN_BELT=dominance:2&speed:1": {
-      "profit": 6000000,
-      "profit_percentage": 22.5
-    },
-    "MOLTEN_BELT=dominance:1&speed:2": {
-      "profit": 6000000,
-      "profit_percentage": 22.5
-    },
-    "MOLTEN_BELT=dominance:2&speed:2": {
-      "profit": 6000000,
-      "profit_percentage": 22.5
-    },
-    "MOLTEN_BELT=dominance:3&speed:2": {
-      "profit": 6000000,
-      "profit_percentage": 22.5
-    },
-    "MOLTEN_BELT=dominance:2&speed:3": {
-      "profit": 6000000,
-      "profit_percentage": 22.5
-    },
-    "MOLTEN_BELT=dominance:3&speed:3": {
-      "profit": 6000000,
-      "profit_percentage": 22.5
-    },
-    "MOLTEN_BELT=dominance:4&speed:3": {
-      "profit": 6000000,
-      "profit_percentage": 22.5
-    },
-    "MOLTEN_BELT=dominance:3&speed:4": {
-      "profit": 6000000,
-      "profit_percentage": 22.5
-    },
-    "MOLTEN_BELT=dominance:4&speed:4": {
-      "profit": 6000000,
-      "profit_percentage": 22.5
-    },
-    "MOLTEN_BELT=dominance:5&speed:4": {
-      "profit": 6000000,
-      "profit_percentage": 22.5
-    },
-    "MOLTEN_BELT=dominance:4&speed:5": {
-      "profit": 6000000,
-      "profit_percentage": 22.5
-    },
-    "MOLTEN_BELT=dominance:5&speed:5": {
-      "profit": 6000000,
-      "profit_percentage": 22.5
-    },
-    "MOLTEN_BELT=mana_pool:1&mana_regeneration:1": {
-      "profit": 6000000,
-      "profit_percentage": 22.5
-    },
-    "MOLTEN_BELT=mana_pool:2&mana_regeneration:1": {
-      "profit": 6000000,
-      "profit_percentage": 22.5
-    },
-    "MOLTEN_BELT=mana_pool:1&mana_regeneration:2": {
-      "profit": 6000000,
-      "profit_percentage": 22.5
-    },
-    "MOLTEN_BELT=mana_pool:2&mana_regeneration:2": {
-      "profit": 6000000,
-      "profit_percentage": 22.5
-    },
-    "MOLTEN_BELT=mana_pool:3&mana_regeneration:2": {
-      "profit": 6000000,
-      "profit_percentage": 22.5
-    },
-    "MOLTEN_BELT=mana_pool:2&mana_regeneration:3": {
-      "profit": 6000000,
-      "profit_percentage": 22.5
-    },
-    "MOLTEN_BELT=mana_pool:3&mana_regeneration:3": {
-      "profit": 6000000,
-      "profit_percentage": 22.5
-    },
-    "MOLTEN_BELT=mana_pool:4&mana_regeneration:3": {
-      "profit": 6000000,
-      "profit_percentage": 22.5
-    },
-    "MOLTEN_BELT=mana_pool:3&mana_regeneration:4": {
-      "profit": 6000000,
-      "profit_percentage": 22.5
-    },
-    "MOLTEN_BELT=mana_pool:4&mana_regeneration:4": {
-      "profit": 6000000,
-      "profit_percentage": 22.5
-    },
-    "MOLTEN_BELT=mana_pool:5&mana_regeneration:4": {
-      "profit": 6000000,
-      "profit_percentage": 22.5
-    },
-    "MOLTEN_BELT=mana_pool:4&mana_regeneration:5": {
-      "profit": 6000000,
-      "profit_percentage": 22.5
-    },
-    "MOLTEN_BELT=mana_pool:5&mana_regeneration:5": {
-      "profit": 6000000,
-      "profit_percentage": 22.5
-    },
     "MOLTEN_BELT=arachno_resistance:1&mana_pool:1": {
       "profit": 6000000,
       "profit_percentage": 22.5
@@ -36993,165 +36641,109 @@
       "profit": 6000000,
       "profit_percentage": 22.5
     },
-    "MOLTEN_BRACELET=global:true": {
-      "profit": 2000000,
-      "profit_percentage": 85
-    },
-    "MOLTEN_BRACELET=magic_find:1&veteran:1": {
+    "MOLTEN_BELT=dominance:1&mending:1": {
       "profit": 6000000,
-      "profit_percentage": 22.5
+      "profit_percentage": 40
     },
-    "MOLTEN_BRACELET=magic_find:2&veteran:1": {
+    "MOLTEN_BELT=dominance:2&mending:1": {
       "profit": 6000000,
-      "profit_percentage": 22.5
+      "profit_percentage": 40
     },
-    "MOLTEN_BRACELET=magic_find:1&veteran:2": {
+    "MOLTEN_BELT=dominance:1&mending:2": {
       "profit": 6000000,
-      "profit_percentage": 22.5
+      "profit_percentage": 40
     },
-    "MOLTEN_BRACELET=magic_find:2&veteran:2": {
+    "MOLTEN_BELT=dominance:2&mending:2": {
       "profit": 6000000,
-      "profit_percentage": 22.5
+      "profit_percentage": 40
     },
-    "MOLTEN_BRACELET=magic_find:3&veteran:2": {
+    "MOLTEN_BELT=dominance:3&mending:2": {
       "profit": 6000000,
-      "profit_percentage": 22.5
+      "profit_percentage": 40
     },
-    "MOLTEN_BRACELET=magic_find:2&veteran:3": {
+    "MOLTEN_BELT=dominance:2&mending:3": {
       "profit": 6000000,
-      "profit_percentage": 22.5
+      "profit_percentage": 40
     },
-    "MOLTEN_BRACELET=magic_find:3&veteran:3": {
+    "MOLTEN_BELT=dominance:3&mending:3": {
       "profit": 6000000,
-      "profit_percentage": 22.5
+      "profit_percentage": 40
     },
-    "MOLTEN_BRACELET=magic_find:4&veteran:3": {
+    "MOLTEN_BELT=dominance:4&mending:3": {
       "profit": 6000000,
-      "profit_percentage": 22.5
+      "profit_percentage": 40
     },
-    "MOLTEN_BRACELET=magic_find:3&veteran:4": {
+    "MOLTEN_BELT=dominance:3&mending:4": {
       "profit": 6000000,
-      "profit_percentage": 22.5
+      "profit_percentage": 40
     },
-    "MOLTEN_BRACELET=magic_find:4&veteran:4": {
+    "MOLTEN_BELT=dominance:4&mending:4": {
       "profit": 6000000,
-      "profit_percentage": 22.5
+      "profit_percentage": 40
     },
-    "MOLTEN_BRACELET=magic_find:5&veteran:4": {
+    "MOLTEN_BELT=dominance:5&mending:4": {
       "profit": 6000000,
-      "profit_percentage": 22.5
+      "profit_percentage": 40
     },
-    "MOLTEN_BRACELET=magic_find:4&veteran:5": {
+    "MOLTEN_BELT=dominance:4&mending:5": {
       "profit": 6000000,
-      "profit_percentage": 22.5
+      "profit_percentage": 40
     },
-    "MOLTEN_BRACELET=magic_find:5&veteran:5": {
+    "MOLTEN_BELT=dominance:5&mending:5": {
       "profit": 6000000,
-      "profit_percentage": 22.5
+      "profit_percentage": 40
     },
-    "MOLTEN_BRACELET=dominance:1&speed:1": {
+    "MOLTEN_BRACELET=dominance:1&mending:1": {
       "profit": 6000000,
-      "profit_percentage": 22.5
+      "profit_percentage": 40
     },
-    "MOLTEN_BRACELET=dominance:2&speed:1": {
+    "MOLTEN_BRACELET=dominance:2&mending:1": {
       "profit": 6000000,
-      "profit_percentage": 22.5
+      "profit_percentage": 40
     },
-    "MOLTEN_BRACELET=dominance:1&speed:2": {
+    "MOLTEN_BRACELET=dominance:1&mending:2": {
       "profit": 6000000,
-      "profit_percentage": 22.5
+      "profit_percentage": 40
     },
-    "MOLTEN_BRACELET=dominance:2&speed:2": {
+    "MOLTEN_BRACELET=dominance:2&mending:2": {
       "profit": 6000000,
-      "profit_percentage": 22.5
+      "profit_percentage": 40
     },
-    "MOLTEN_BRACELET=dominance:3&speed:2": {
+    "MOLTEN_BRACELET=dominance:3&mending:2": {
       "profit": 6000000,
-      "profit_percentage": 22.5
+      "profit_percentage": 40
     },
-    "MOLTEN_BRACELET=dominance:2&speed:3": {
+    "MOLTEN_BRACELET=dominance:2&mending:3": {
       "profit": 6000000,
-      "profit_percentage": 22.5
+      "profit_percentage": 40
     },
-    "MOLTEN_BRACELET=dominance:3&speed:3": {
+    "MOLTEN_BRACELET=dominance:3&mending:3": {
       "profit": 6000000,
-      "profit_percentage": 22.5
+      "profit_percentage": 40
     },
-    "MOLTEN_BRACELET=dominance:4&speed:3": {
+    "MOLTEN_BRACELET=dominance:4&mending:3": {
       "profit": 6000000,
-      "profit_percentage": 22.5
+      "profit_percentage": 40
     },
-    "MOLTEN_BRACELET=dominance:3&speed:4": {
+    "MOLTEN_BRACELET=dominance:3&mending:4": {
       "profit": 6000000,
-      "profit_percentage": 22.5
+      "profit_percentage": 40
     },
-    "MOLTEN_BRACELET=dominance:4&speed:4": {
+    "MOLTEN_BRACELET=dominance:4&mending:4": {
       "profit": 6000000,
-      "profit_percentage": 22.5
+      "profit_percentage": 40
     },
-    "MOLTEN_BRACELET=dominance:5&speed:4": {
+    "MOLTEN_BRACELET=dominance:5&mending:4": {
       "profit": 6000000,
-      "profit_percentage": 22.5
+      "profit_percentage": 40
     },
-    "MOLTEN_BRACELET=dominance:4&speed:5": {
+    "MOLTEN_BRACELET=dominance:4&mending:5": {
       "profit": 6000000,
-      "profit_percentage": 22.5
+      "profit_percentage": 40
     },
-    "MOLTEN_BRACELET=dominance:5&speed:5": {
+    "MOLTEN_BRACELET=dominance:5&mending:5": {
       "profit": 6000000,
-      "profit_percentage": 22.5
-    },
-    "MOLTEN_BRACELET=mana_pool:1&mana_regeneration:1": {
-      "profit": 6000000,
-      "profit_percentage": 22.5
-    },
-    "MOLTEN_BRACELET=mana_pool:2&mana_regeneration:1": {
-      "profit": 6000000,
-      "profit_percentage": 22.5
-    },
-    "MOLTEN_BRACELET=mana_pool:1&mana_regeneration:2": {
-      "profit": 6000000,
-      "profit_percentage": 22.5
-    },
-    "MOLTEN_BRACELET=mana_pool:2&mana_regeneration:2": {
-      "profit": 6000000,
-      "profit_percentage": 22.5
-    },
-    "MOLTEN_BRACELET=mana_pool:3&mana_regeneration:2": {
-      "profit": 6000000,
-      "profit_percentage": 22.5
-    },
-    "MOLTEN_BRACELET=mana_pool:2&mana_regeneration:3": {
-      "profit": 6000000,
-      "profit_percentage": 22.5
-    },
-    "MOLTEN_BRACELET=mana_pool:3&mana_regeneration:3": {
-      "profit": 6000000,
-      "profit_percentage": 22.5
-    },
-    "MOLTEN_BRACELET=mana_pool:4&mana_regeneration:3": {
-      "profit": 6000000,
-      "profit_percentage": 22.5
-    },
-    "MOLTEN_BRACELET=mana_pool:3&mana_regeneration:4": {
-      "profit": 6000000,
-      "profit_percentage": 22.5
-    },
-    "MOLTEN_BRACELET=mana_pool:4&mana_regeneration:4": {
-      "profit": 6000000,
-      "profit_percentage": 22.5
-    },
-    "MOLTEN_BRACELET=mana_pool:5&mana_regeneration:4": {
-      "profit": 6000000,
-      "profit_percentage": 22.5
-    },
-    "MOLTEN_BRACELET=mana_pool:4&mana_regeneration:5": {
-      "profit": 6000000,
-      "profit_percentage": 22.5
-    },
-    "MOLTEN_BRACELET=mana_pool:5&mana_regeneration:5": {
-      "profit": 6000000,
-      "profit_percentage": 22.5
+      "profit_percentage": 40
     },
     "MOLTEN_BRACELET=arachno_resistance:1&mana_pool:1": {
       "profit": 6000000,
@@ -40169,29 +39761,637 @@
       "profit": 6000000,
       "profit_percentage": 22.5
     },
+    "MOLTEN_CLOAK=dominance:1&speed:1": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_CLOAK=dominance:2&speed:1": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_CLOAK=dominance:1&speed:2": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_CLOAK=dominance:2&speed:2": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_CLOAK=dominance:3&speed:2": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_CLOAK=dominance:2&speed:3": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_CLOAK=dominance:3&speed:3": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_CLOAK=dominance:4&speed:3": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_CLOAK=dominance:3&speed:4": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_CLOAK=dominance:4&speed:4": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_CLOAK=dominance:5&speed:4": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_CLOAK=dominance:4&speed:5": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_CLOAK=dominance:5&speed:5": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_CLOAK=magic_find:1&veteran:1": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_CLOAK=magic_find:2&veteran:1": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_CLOAK=magic_find:1&veteran:2": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_CLOAK=magic_find:2&veteran:2": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_CLOAK=magic_find:3&veteran:2": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_CLOAK=magic_find:2&veteran:3": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_CLOAK=magic_find:3&veteran:3": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_CLOAK=magic_find:4&veteran:3": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_CLOAK=magic_find:3&veteran:4": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_CLOAK=magic_find:4&veteran:4": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_CLOAK=magic_find:5&veteran:4": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_CLOAK=magic_find:4&veteran:5": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_CLOAK=magic_find:5&veteran:5": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_CLOAK=mana_pool:1&mana_regeneration:1": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_CLOAK=mana_pool:2&mana_regeneration:1": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_CLOAK=mana_pool:1&mana_regeneration:2": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_CLOAK=mana_pool:2&mana_regeneration:2": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_CLOAK=mana_pool:3&mana_regeneration:2": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_CLOAK=mana_pool:2&mana_regeneration:3": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_CLOAK=mana_pool:3&mana_regeneration:3": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_CLOAK=mana_pool:4&mana_regeneration:3": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_CLOAK=mana_pool:3&mana_regeneration:4": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_CLOAK=mana_pool:4&mana_regeneration:4": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_CLOAK=mana_pool:5&mana_regeneration:4": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_CLOAK=mana_pool:4&mana_regeneration:5": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_CLOAK=mana_pool:5&mana_regeneration:5": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_NECKLACE=dominance:1&speed:1": {
+      "profit": 30000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_NECKLACE=dominance:2&speed:1": {
+      "profit": 30000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_NECKLACE=dominance:1&speed:2": {
+      "profit": 30000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_NECKLACE=dominance:2&speed:2": {
+      "profit": 30000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_NECKLACE=dominance:3&speed:2": {
+      "profit": 30000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_NECKLACE=dominance:2&speed:3": {
+      "profit": 30000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_NECKLACE=dominance:3&speed:3": {
+      "profit": 30000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_NECKLACE=dominance:4&speed:3": {
+      "profit": 30000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_NECKLACE=dominance:3&speed:4": {
+      "profit": 30000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_NECKLACE=dominance:4&speed:4": {
+      "profit": 30000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_NECKLACE=dominance:5&speed:4": {
+      "profit": 30000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_NECKLACE=dominance:4&speed:5": {
+      "profit": 30000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_NECKLACE=dominance:5&speed:5": {
+      "profit": 30000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_NECKLACE=magic_find:1&veteran:1": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_NECKLACE=magic_find:2&veteran:1": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_NECKLACE=magic_find:1&veteran:2": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_NECKLACE=magic_find:2&veteran:2": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_NECKLACE=magic_find:3&veteran:2": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_NECKLACE=magic_find:2&veteran:3": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_NECKLACE=magic_find:3&veteran:3": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_NECKLACE=magic_find:4&veteran:3": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_NECKLACE=magic_find:3&veteran:4": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_NECKLACE=magic_find:4&veteran:4": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_NECKLACE=magic_find:5&veteran:4": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_NECKLACE=magic_find:4&veteran:5": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_NECKLACE=magic_find:5&veteran:5": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_NECKLACE=mana_pool:1&mana_regeneration:1": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_NECKLACE=mana_pool:2&mana_regeneration:1": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_NECKLACE=mana_pool:1&mana_regeneration:2": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_NECKLACE=mana_pool:2&mana_regeneration:2": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_NECKLACE=mana_pool:3&mana_regeneration:2": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_NECKLACE=mana_pool:2&mana_regeneration:3": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_NECKLACE=mana_pool:3&mana_regeneration:3": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_NECKLACE=mana_pool:4&mana_regeneration:3": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_NECKLACE=mana_pool:3&mana_regeneration:4": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_NECKLACE=mana_pool:4&mana_regeneration:4": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_NECKLACE=mana_pool:5&mana_regeneration:4": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_NECKLACE=mana_pool:4&mana_regeneration:5": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_NECKLACE=mana_pool:5&mana_regeneration:5": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BELT=dominance:1&speed:1": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BELT=dominance:2&speed:1": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BELT=dominance:1&speed:2": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BELT=dominance:2&speed:2": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BELT=dominance:3&speed:2": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BELT=dominance:2&speed:3": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BELT=dominance:3&speed:3": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BELT=dominance:4&speed:3": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BELT=dominance:3&speed:4": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BELT=dominance:4&speed:4": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BELT=dominance:5&speed:4": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BELT=dominance:4&speed:5": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BELT=dominance:5&speed:5": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BELT=magic_find:1&veteran:1": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BELT=magic_find:2&veteran:1": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BELT=magic_find:1&veteran:2": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BELT=magic_find:2&veteran:2": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BELT=magic_find:3&veteran:2": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BELT=magic_find:2&veteran:3": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BELT=magic_find:3&veteran:3": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BELT=magic_find:4&veteran:3": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BELT=magic_find:3&veteran:4": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BELT=magic_find:4&veteran:4": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BELT=magic_find:5&veteran:4": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BELT=magic_find:4&veteran:5": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BELT=magic_find:5&veteran:5": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BELT=mana_pool:1&mana_regeneration:1": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BELT=mana_pool:2&mana_regeneration:1": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BELT=mana_pool:1&mana_regeneration:2": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BELT=mana_pool:2&mana_regeneration:2": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BELT=mana_pool:3&mana_regeneration:2": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BELT=mana_pool:2&mana_regeneration:3": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BELT=mana_pool:3&mana_regeneration:3": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BELT=mana_pool:4&mana_regeneration:3": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BELT=mana_pool:3&mana_regeneration:4": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BELT=mana_pool:4&mana_regeneration:4": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BELT=mana_pool:5&mana_regeneration:4": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BELT=mana_pool:4&mana_regeneration:5": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BELT=mana_pool:5&mana_regeneration:5": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BRACELET=dominance:1&speed:1": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BRACELET=dominance:2&speed:1": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BRACELET=dominance:1&speed:2": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BRACELET=dominance:2&speed:2": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BRACELET=dominance:3&speed:2": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BRACELET=dominance:2&speed:3": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BRACELET=dominance:3&speed:3": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BRACELET=dominance:4&speed:3": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BRACELET=dominance:3&speed:4": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BRACELET=dominance:4&speed:4": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BRACELET=dominance:5&speed:4": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BRACELET=dominance:4&speed:5": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BRACELET=dominance:5&speed:5": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BRACELET=magic_find:1&veteran:1": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BRACELET=magic_find:2&veteran:1": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BRACELET=magic_find:1&veteran:2": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BRACELET=magic_find:2&veteran:2": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BRACELET=magic_find:3&veteran:2": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BRACELET=magic_find:2&veteran:3": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BRACELET=magic_find:3&veteran:3": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BRACELET=magic_find:4&veteran:3": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BRACELET=magic_find:3&veteran:4": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BRACELET=magic_find:4&veteran:4": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BRACELET=magic_find:5&veteran:4": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BRACELET=magic_find:4&veteran:5": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BRACELET=magic_find:5&veteran:5": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BRACELET=mana_pool:1&mana_regeneration:1": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BRACELET=mana_pool:2&mana_regeneration:1": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BRACELET=mana_pool:1&mana_regeneration:2": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BRACELET=mana_pool:2&mana_regeneration:2": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BRACELET=mana_pool:3&mana_regeneration:2": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BRACELET=mana_pool:2&mana_regeneration:3": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BRACELET=mana_pool:3&mana_regeneration:3": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BRACELET=mana_pool:4&mana_regeneration:3": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BRACELET=mana_pool:3&mana_regeneration:4": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BRACELET=mana_pool:4&mana_regeneration:4": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BRACELET=mana_pool:5&mana_regeneration:4": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BRACELET=mana_pool:4&mana_regeneration:5": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
+    "MOLTEN_BRACELET=mana_pool:5&mana_regeneration:5": {
+      "profit": 10000000,
+      "profit_percentage": 10
+    },
     "DARK_CLAYMORE=global:true": {
       "profit": 1,
       "profit_percentage": 7
     },
-    "DIVAN_BOOTS=global:true": {
-      "profit": 2000000,
-      "profit_percentage": 12
-    },
-    "DIVAN_CHESTPLATE=global:true": {
-      "profit": 2000000,
-      "profit_percentage": 12
-    },
     "DIVAN_DRILL=global:true": {
       "profit": 5000000,
       "profit_percentage": 6
-    },
-    "DIVAN_HELMET=global:true": {
-      "profit": 2000000,
-      "profit_percentage": 12
-    },
-    "DIVAN_LEGGINGS=global:true": {
-      "profit": 2000000,
-      "profit_percentage": 12
     },
     "DRACONIC_RING=global:true": {
       "profit": 3000000,
@@ -40252,6 +40452,22 @@
     "FINAL_DESTINATION_LEGGINGS=global:true": {
       "profit": 3000000,
       "profit_percentage": 35
+    },
+    "LIVID_DAGGER=nil": {
+      "profit": 1,
+      "profit_percentage": 75
+    },
+    "POWER_WITHER_BOOTS=nil": {
+      "profit": 1,
+      "profit_percentage": 75
+    },
+    "POWER_WITHER_LEGGINGS=nil": {
+      "profit": 1,
+      "profit_percentage": 75
+    },
+    "POWER_WITHER_CHESTPLATE=nil": {
+      "profit": 1,
+      "profit_percentage": 75
     },
     "FROZEN_BLAZE_BOOTS=growth:6&protection:6&rarity_upgraded:true&stars:10": {
       "profit": 1,
@@ -43906,7 +44122,7 @@
       "profit_percentage": 20
     },
     "GAUNTLET_OF_CONTAGION=global:true": {
-      "profit": 8000000,
+      "profit": 5000000,
       "profit_percentage": 75
     },
     "GAUNTLET_OF_CONTAGION=magic_find:1&veteran:1": {
@@ -44065,6 +44281,58 @@
       "profit": 6000000,
       "profit_percentage": 10
     },
+    "GAUNTLET_OF_CONTAGION=dominance:1&mending:1": {
+      "profit": 6000000,
+      "profit_percentage": 40
+    },
+    "GAUNTLET_OF_CONTAGION=dominance:2&mending:1": {
+      "profit": 6000000,
+      "profit_percentage": 40
+    },
+    "GAUNTLET_OF_CONTAGION=dominance:1&mending:2": {
+      "profit": 6000000,
+      "profit_percentage": 40
+    },
+    "GAUNTLET_OF_CONTAGION=dominance:2&mending:2": {
+      "profit": 6000000,
+      "profit_percentage": 40
+    },
+    "GAUNTLET_OF_CONTAGION=dominance:3&mending:2": {
+      "profit": 6000000,
+      "profit_percentage": 40
+    },
+    "GAUNTLET_OF_CONTAGION=dominance:2&mending:3": {
+      "profit": 6000000,
+      "profit_percentage": 40
+    },
+    "GAUNTLET_OF_CONTAGION=dominance:3&mending:3": {
+      "profit": 6000000,
+      "profit_percentage": 40
+    },
+    "GAUNTLET_OF_CONTAGION=dominance:4&mending:3": {
+      "profit": 6000000,
+      "profit_percentage": 40
+    },
+    "GAUNTLET_OF_CONTAGION=dominance:3&mending:4": {
+      "profit": 6000000,
+      "profit_percentage": 40
+    },
+    "GAUNTLET_OF_CONTAGION=dominance:4&mending:4": {
+      "profit": 6000000,
+      "profit_percentage": 40
+    },
+    "GAUNTLET_OF_CONTAGION=dominance:5&mending:4": {
+      "profit": 6000000,
+      "profit_percentage": 40
+    },
+    "GAUNTLET_OF_CONTAGION=dominance:4&mending:5": {
+      "profit": 6000000,
+      "profit_percentage": 40
+    },
+    "GAUNTLET_OF_CONTAGION=dominance:5&mending:5": {
+      "profit": 6000000,
+      "profit_percentage": 40
+    },
     "GIANTS_SWORD=global:true": {
       "profit": 1,
       "profit_percentage": 6
@@ -44080,10 +44348,6 @@
     "GRAND_SEARING_RUNE_3=global:true": {
       "profit": 44,
       "profit_percentage": 95
-    },
-    "GREAT_SPOOK_ARTIFACT=global:true": {
-      "profit": 5000000,
-      "profit_percentage": 7
     },
     "HIGH_CLASS_ARCHFIEND_DICE=global:true": {
       "profit": 20000000,
@@ -49809,6 +50073,10 @@
       "profit": 2500000,
       "profit_percentage": 25
     },
+    "JUJU_SHORTBOW=overload:5&rarity_upgraded:true&stars:5&ultimate_soul_eater:5": {
+      "profit": 1,
+      "profit_percentage": 5
+    },
     "MAGMA_LORD_BOOTS=global:true": {
       "profit": 4500000,
       "profit_percentage": 10
@@ -49836,10 +50104,6 @@
     "NULL_BLADE=global:true": {
       "profit": 8000000,
       "profit_percentage": 20
-    },
-    "OVERFLUX_POWER_ORB=global:true": {
-      "profit": 1000000,
-      "profit_percentage": 5
     },
     "PARTY_HAT_CRAB=global:true": {
       "profit": 1500000,
@@ -50046,8 +50310,8 @@
       "profit_percentage": 5
     },
     "PET_ARMADILLO_LEGENDARY=candyUsed:true&rounded_level:100": {
-      "profit": 1250000,
-      "profit_percentage": 5
+      "profit": 3000000,
+      "profit_percentage": 10
     },
     "PET_ARMADILLO_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINING_EXP_BOOST_RARE&rounded_level:100": {
       "profit": 1250000,
@@ -50082,8 +50346,8 @@
       "profit_percentage": 5
     },
     "PET_ARMADILLO_LEGENDARY=candyUsed:false&rounded_level:100": {
-      "profit": 1250000,
-      "profit_percentage": 5
+      "profit": 3000000,
+      "profit_percentage": 10
     },
     "PET_ARMADILLO_RARE=candyUsed:true&rounded_level:10": {
       "profit": 7500000,
@@ -53617,325 +53881,169 @@
       "profit": 7500000,
       "profit_percentage": 25
     },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:0": {
+    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&rounded_level:0": {
       "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:5": {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:10" : {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:20": {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:25": {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:30": {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:35": {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:40": {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:45": {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:50": {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:55": {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:60": {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:65": {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:70": {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:75": {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:80": {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:85": {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:90": {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:95": {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:100": {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:105": {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:110": {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:115": {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:120": {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:125": {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:130": {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:135": {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:140": {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:145": {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:150": {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:155": {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:160": {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:165": {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:170": {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:175": {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:180": {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:185": {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:190": {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:195": {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:0": {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:5": {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:10": {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:20": {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:25": {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:30": {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:35": {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:40": {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:45": {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:50": {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:55": {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:60": {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:65": {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:70": {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:75": {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:80": {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:85": {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:90": {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:95": {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:100": {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:105": {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:110": {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:115": {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:120": {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:125": {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:130": {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:135": {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:140": {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:145": {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:150": {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:155": {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:160": {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:165": {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:170": {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:175": {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:180": {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:185": {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:190": {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:195": {
-      "profit": 1,
-      "profit_percentage": 25
-    },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&rounded_level:200": {
-      "profit": 150000000,
       "profit_percentage": 20
     },
-    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:false&heldItem:PET_ITEM_MINOS_RELIC&rounded_level:200": {
+    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&rounded_level:5": {
       "profit": 1,
-      "profit_percentage": 25
+      "profit_percentage": 20
+    },
+    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&rounded_level:10": {
+      "profit": 1,
+      "profit_percentage": 20
+    },
+    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&rounded_level:15": {
+      "profit": 1,
+      "profit_percentage": 20
+    },
+    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&rounded_level:20": {
+      "profit": 1,
+      "profit_percentage": 20
+    },
+    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&rounded_level:25": {
+      "profit": 1,
+      "profit_percentage": 20
+    },
+    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&rounded_level:30": {
+      "profit": 1,
+      "profit_percentage": 20
+    },
+    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&rounded_level:35": {
+      "profit": 1,
+      "profit_percentage": 20
+    },
+    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&rounded_level:40": {
+      "profit": 1,
+      "profit_percentage": 20
+    },
+    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&rounded_level:45": {
+      "profit": 1,
+      "profit_percentage": 20
+    },
+    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&rounded_level:50": {
+      "profit": 1,
+      "profit_percentage": 20
+    },
+    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&rounded_level:55": {
+      "profit": 1,
+      "profit_percentage": 20
+    },
+    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&rounded_level:60": {
+      "profit": 1,
+      "profit_percentage": 20
+    },
+    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&rounded_level:65": {
+      "profit": 1,
+      "profit_percentage": 20
+    },
+    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&rounded_level:70": {
+      "profit": 1,
+      "profit_percentage": 20
+    },
+    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&rounded_level:75": {
+      "profit": 1,
+      "profit_percentage": 20
+    },
+    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&rounded_level:80": {
+      "profit": 1,
+      "profit_percentage": 20
+    },
+    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&rounded_level:85": {
+      "profit": 1,
+      "profit_percentage": 20
+    },
+    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&rounded_level:90": {
+      "profit": 1,
+      "profit_percentage": 20
+    },
+    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&rounded_level:95": {
+      "profit": 1,
+      "profit_percentage": 20
+    },
+    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&rounded_level:100": {
+      "profit": 1,
+      "profit_percentage": 20
+    },
+    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&rounded_level:105": {
+      "profit": 1,
+      "profit_percentage": 20
+    },
+    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&rounded_level:110": {
+      "profit": 1,
+      "profit_percentage": 20
+    },
+    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&rounded_level:115": {
+      "profit": 1,
+      "profit_percentage": 20
+    },
+    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&rounded_level:120": {
+      "profit": 1,
+      "profit_percentage": 20
+    },
+    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&rounded_level:125": {
+      "profit": 1,
+      "profit_percentage": 20
+    },
+    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&rounded_level:130": {
+      "profit": 1,
+      "profit_percentage": 20
+    },
+    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&rounded_level:135": {
+      "profit": 1,
+      "profit_percentage": 20
+    },
+    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&rounded_level:140": {
+      "profit": 1,
+      "profit_percentage": 20
+    },
+    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&rounded_level:145": {
+      "profit": 1,
+      "profit_percentage": 20
+    },
+    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&rounded_level:150": {
+      "profit": 1,
+      "profit_percentage": 20
+    },
+    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&rounded_level:155": {
+      "profit": 1,
+      "profit_percentage": 20
+    },
+    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&rounded_level:160": {
+      "profit": 1,
+      "profit_percentage": 20
+    },
+    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&rounded_level:165": {
+      "profit": 1,
+      "profit_percentage": 20
+    },
+    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&rounded_level:170": {
+      "profit": 1,
+      "profit_percentage": 20
+    },
+    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&rounded_level:175": {
+      "profit": 1,
+      "profit_percentage": 20
+    },
+    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&rounded_level:180": {
+      "profit": 1,
+      "profit_percentage": 20
+    },
+    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&rounded_level:185": {
+      "profit": 1,
+      "profit_percentage": 20
+    },
+    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&rounded_level:190": {
+      "profit": 1,
+      "profit_percentage": 20
+    },
+    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&rounded_level:195": {
+      "profit": 1,
+      "profit_percentage": 20
+    },
+    "PET_GOLDEN_DRAGON_LEGENDARY=candyUsed:true&rounded_level:200": {
+      "profit": 1,
+      "profit_percentage": 20
     },
     "PET_GRANDMA_WOLF_COMMON=candyUsed:true&rounded_level:10": {
       "profit": 7500000,
@@ -59149,86 +59257,6 @@
       "profit": 7500000,
       "profit_percentage": 25
     },
-    "PET_SCATHA_EPIC=candyUsed:false&rounded_level:10": {
-      "profit": 7500000,
-      "profit_percentage": 25
-    },
-    "PET_SCATHA_EPIC=candyUsed:false&rounded_level:100": {
-      "profit": 7500000,
-      "profit_percentage": 7
-    },
-    "PET_SCATHA_EPIC=candyUsed:false&rounded_level:15": {
-      "profit": 7500000,
-      "profit_percentage": 25
-    },
-    "PET_SCATHA_EPIC=candyUsed:false&rounded_level:20": {
-      "profit": 7500000,
-      "profit_percentage": 25
-    },
-    "PET_SCATHA_EPIC=candyUsed:false&rounded_level:25": {
-      "profit": 7500000,
-      "profit_percentage": 25
-    },
-    "PET_SCATHA_EPIC=candyUsed:false&rounded_level:30": {
-      "profit": 7500000,
-      "profit_percentage": 25
-    },
-    "PET_SCATHA_EPIC=candyUsed:false&rounded_level:35": {
-      "profit": 7500000,
-      "profit_percentage": 25
-    },
-    "PET_SCATHA_EPIC=candyUsed:false&rounded_level:40": {
-      "profit": 7500000,
-      "profit_percentage": 25
-    },
-    "PET_SCATHA_EPIC=candyUsed:false&rounded_level:45": {
-      "profit": 7500000,
-      "profit_percentage": 25
-    },
-    "PET_SCATHA_EPIC=candyUsed:false&rounded_level:5": {
-      "profit": 7500000,
-      "profit_percentage": 25
-    },
-    "PET_SCATHA_EPIC=candyUsed:false&rounded_level:50": {
-      "profit": 7500000,
-      "profit_percentage": 25
-    },
-    "PET_SCATHA_EPIC=candyUsed:false&rounded_level:55": {
-      "profit": 7500000,
-      "profit_percentage": 25
-    },
-    "PET_SCATHA_EPIC=candyUsed:false&rounded_level:60": {
-      "profit": 7500000,
-      "profit_percentage": 25
-    },
-    "PET_SCATHA_EPIC=candyUsed:false&rounded_level:65": {
-      "profit": 7500000,
-      "profit_percentage": 25
-    },
-    "PET_SCATHA_EPIC=candyUsed:false&rounded_level:70": {
-      "profit": 7500000,
-      "profit_percentage": 25
-    },
-    "PET_SCATHA_EPIC=candyUsed:false&rounded_level:75": {
-      "profit": 7500000,
-      "profit_percentage": 25
-    },
-    "PET_SCATHA_EPIC=candyUsed:false&rounded_level:80": {
-      "profit": 7500000,
-      "profit_percentage": 25
-    },
-    "PET_SCATHA_EPIC=candyUsed:false&rounded_level:85": {
-      "profit": 7500000,
-      "profit_percentage": 25
-    },
-    "PET_SCATHA_EPIC=candyUsed:false&rounded_level:90": {
-      "profit": 7500000,
-      "profit_percentage": 25
-    },
-    "PET_SCATHA_EPIC=candyUsed:false&rounded_level:95": {
-      "profit": 7500000,
-      "profit_percentage": 25
-    },
     "PET_SCATHA_EPIC=candyUsed:true&rounded_level:10": {
       "profit": 7500000,
       "profit_percentage": 25
@@ -59466,86 +59494,6 @@
       "profit_percentage": 25
     },
     "PET_SCATHA_RARE=candyUsed:true&rounded_level:95": {
-      "profit": 7500000,
-      "profit_percentage": 25
-    },
-    "PET_SCATHA_RARE=candyUsed:false&rounded_level:10": {
-      "profit": 7500000,
-      "profit_percentage": 25
-    },
-    "PET_SCATHA_RARE=candyUsed:false&rounded_level:100": {
-      "profit": 7500000,
-      "profit_percentage": 7
-   },
-    "PET_SCATHA_RARE=candyUsed:false&rounded_level:15": {
-      "profit": 7500000,
-      "profit_percentage": 25
-    },
-    "PET_SCATHA_RARE=candyUsed:false&rounded_level:20": {
-      "profit": 7500000,
-      "profit_percentage": 25
-    },
-    "PET_SCATHA_RARE=candyUsed:false&rounded_level:25": {
-      "profit": 7500000,
-      "profit_percentage": 25
-    },
-    "PET_SCATHA_RARE=candyUsed:false&rounded_level:30": {
-      "profit": 7500000,
-      "profit_percentage": 25
-    },
-    "PET_SCATHA_RARE=candyUsed:false&rounded_level:35": {
-      "profit": 7500000,
-      "profit_percentage": 25
-    },
-    "PET_SCATHA_RARE=candyUsed:false&rounded_level:40": {
-      "profit": 7500000,
-      "profit_percentage": 25
-    },
-    "PET_SCATHA_RARE=candyUsed:false&rounded_level:45": {
-      "profit": 7500000,
-      "profit_percentage": 25
-    },
-    "PET_SCATHA_RARE=candyUsed:false&rounded_level:5": {
-      "profit": 7500000,
-      "profit_percentage": 25
-    },
-    "PET_SCATHA_RARE=candyUsed:false&rounded_level:50": {
-      "profit": 7500000,
-      "profit_percentage": 25
-    },
-    "PET_SCATHA_RARE=candyUsed:false&rounded_level:55": {
-      "profit": 7500000,
-      "profit_percentage": 25
-    },
-    "PET_SCATHA_RARE=candyUsed:false&rounded_level:60": {
-      "profit": 7500000,
-      "profit_percentage": 25
-    },
-    "PET_SCATHA_RARE=candyUsed:false&rounded_level:65": {
-      "profit": 7500000,
-      "profit_percentage": 25
-    },
-    "PET_SCATHA_RARE=candyUsed:false&rounded_level:70": {
-      "profit": 7500000,
-      "profit_percentage": 25
-    },
-    "PET_SCATHA_RARE=candyUsed:false&rounded_level:75": {
-      "profit": 7500000,
-      "profit_percentage": 25
-    },
-    "PET_SCATHA_RARE=candyUsed:false&rounded_level:80": {
-      "profit": 7500000,
-      "profit_percentage": 25
-    },
-     "PET_SCATHA_RARE=candyUsed:false&rounded_level:85": {
-       "profit": 7500000,
-       "profit_percentage": 25
-    },
-    "PET_SCATHA_RARE=candyUsed:false&rounded_level:90": {
-      "profit": 7500000,
-      "profit_percentage": 25
-    },
-    "PET_SCATHA_RARE=candyUsed:false&rounded_level:95": {
       "profit": 7500000,
       "profit_percentage": 25
     },
@@ -62278,7 +62226,7 @@
       "profit_percentage": 25
     },
     "PET_WITHER_SKELETON_LEGENDARY=candyUsed:false&rounded_level:100": {
-      "profit": 1600000,
+      "profit": 7500000,
       "profit_percentage": 5
     },
     "PET_ZOMBIE_COMMON=candyUsed:true&rounded_level:10": {
@@ -62681,25 +62629,13 @@
       "profit": 7500000,
       "profit_percentage": 25
     },
+    "MIDAS_STAFF=global:true": {
+      "profit": 1,
+      "profit_percentage": 25
+    },
     "PLASMA_NUCLEUS=global:true": {
       "profit": 50000000,
       "profit_percentage": 30
-    },
-    "POWER_WITHER_CHESTPLATE=global:true": {
-      "profit": 5000000,
-      "profit_percentage": 5
-    },
-    "POWER_WITHER_LEGGINGS=global:true": {
-      "profit": 5000000,
-      "profit_percentage": 5
-    },
-    "POWER_WITHER_HELMET=global:true": {
-      "profit": 7500000,
-      "profit_percentage": 5
-    },
-    "POWER_WITHER_BOOTS=global:true": {
-      "profit": 5000000,
-      "profit_percentage": 5
     },
     "PRECURSOR_EYE=global:true": {
       "profit": 2000000,
@@ -62709,24 +62645,8 @@
       "profit": 2000000,
       "profit_percentage": 7
     },
-    "REAPER_BOOTS=global:true": {
-      "profit": 4000000,
-      "profit_percentage": 20
-    },
-    "REAPER_CHESTPLATE=global:true": {
-      "profit": 4000000,
-      "profit_percentage": 20
-    },
-    "REAPER_LEGGINGS=global:true": {
-      "profit": 4000000,
-      "profit_percentage": 20
-    },
     "REAPER_MASK=global:true": {
       "profit": 5000000,
-      "profit_percentage": 10
-    },
-    "REAPER_SCYTHE=global:true": {
-      "profit": 2000000,
       "profit_percentage": 10
     },
     "SAPPHIRE_POLISHED_DRILL_ENGINE=global:true": {
@@ -62749,24 +62669,16 @@
       "profit": 30000000,
       "profit_percentage": 30
     },
-    "SHADOW_ASSASSIN_CHESTPLATE=nil": {
-      "profit": 2250000,
-      "profit_percentage": 7.5
-    },
-    "SHADOW_FURY=nil": {
-      "profit": 2500000,
-      "profit_percentage": 7
-    },
     "SHARK_SCALE_BOOTS=global:true": {
-      "profit": 5000000,
+      "profit": 15000000,
       "profit_percentage": 8
     },
     "SHARK_SCALE_CHESTPLATE=global:true": {
-      "profit": 5000000,
+      "profit": 15000000,
       "profit_percentage": 8
     },
     "SHARK_SCALE_HELMET=global:true": {
-      "profit": 5000000,
+      "profit": 15000000,
       "profit_percentage": 8
     },
     "SHARK_SCALE_LEGGINGS=global:true": {
@@ -66433,6 +66345,18 @@
       "profit": 1,
       "profit_percentage": 20
     },
+    "TERROR_CHESTPLATE=dominance:1&mending:1": {
+      "profit": 20000000,
+      "profit_percentage": 25
+    },
+    "TERROR_LEGGINGS=dominance:1&mending:1": {
+      "profit": 20000000,
+      "profit_percentage": 25
+    },
+    "TERROR_BOOTS=dominance:1&mending:1": {
+      "profit": 20000000,
+      "profit_percentage": 25
+    },
     "TERMINATOR=global:true": {
       "profit": 1,
       "profit_percentage": 5
@@ -66445,37 +66369,21 @@
       "profit": 1500000,
       "profit_percentage": 10
     },
+    "WISE_WITHER_BOOTS=nil": {
+      "profit": 1,
+      "profit_percentage": 75
+    },
+    "WISE_WITHER_LEGGINGS=nil": {
+      "profit": 1,
+      "profit_percentage": 75
+    },
+    "WISE_WITHER_CHESTPLATE=nil": {
+      "profit": 1,
+      "profit_percentage": 75
+    },
     "WHEEL_OF_FATE=global:true": {
       "profit": 3000000,
       "profit_percentage": 12.5
-    },
-    "WISE_WITHER_LEGGINGS=global:true": {
-      "profit": 5000000,
-      "profit_percentage": 5
-    },
-    "WISE_WITHER_CHESTPLATE=global:true": {
-      "profit": 5000000,
-      "profit_percentage": 5
-    },
-    "WISE_WITHER_HELMET=global:true": {
-      "profit": 7500000,
-      "profit_percentage": 5
-    },
-    "WISE_WITHER_BOOTS=global:true": {
-      "profit": 5000000,
-      "profit_percentage": 5
-    },
-    "WITHER_BOOTS=global:true": {
-      "profit": 1500000,
-      "profit_percentage": 7
-    },
-    "WITHER_LEGGINGS=global:true": {
-      "profit": 1500000,
-      "profit_percentage": 7
-    },
-    "WITHER_CHESTPLATE=global:true": {
-      "profit": 1500000,
-      "profit_percentage": 7
     },
     "WITHER_GOGGLES=nil": {
       "profit": 2000000,
@@ -67046,7 +66954,6 @@
     "WORKBENCH",
     "WRITTEN_BOOK",
     "BEJEWELED_HANDLE",
-    "MIDAS_STAFF",
     "MIDAS_SWORD",
     "CARROT",
     "CARROTS",
@@ -67176,7 +67083,69 @@
     "STEW_THE_FISH",
     "STORM_THE_FISH",
     "WORM_THE_FISH",
-    "ZOOP_THE_FISH"
+    "ZOOP_THE_FISH",
+    "PROMISING_SPADE",
+    "TROPICAL_BIRD_2_PERSONALITY",
+    "ICE_CREAM_CART",
+    "DUNGEON_DISC_5",
+    "TRAPPER_DEN_TRAVEL_SCROLL",
+    "TRAPPER_DEN_PORTAL",
+    "HUB_CASTLE_TRAVEL_SCROLL",
+    "HUB_CASTLE_PORTAL",
+    "MUSEUM_TRAVEL_SCROLL",
+    "MUSEUM_PORTAL",
+    "HUB_WIZARD_TOWER_TRAVEL_SCROLL",
+    "HUB_WIZARD_TOWER_PORTAL",
+    "HUB_DA_TRAVEL_SCROLL",
+    "HUB_DA_PORTAL",
+    "HUB_CRYPTS_TRAVEL_SCROLL",
+    "HUB_CRYPTS_PORTAL",
+    "FARMING_1_TRAVEL_SCROLL",
+    "FARMING_1_PORTAL",
+    "FARMING_2_TRAVEL_SCROLL",
+    "FARMING_2_PORTAL",
+    "FORAGING_1_TRAVEL_SCROLL",
+    "FORAGING_1_PORTAL",
+    "PARK_JUNGLE_TRAVEL_SCROLL",
+    "PARK_JUNGLE_PORTAL",
+    "HOWLING_CAVE_TRAVEL_SCROLL",
+    "HOWLING_CAVE_PORTAL",
+    "MINING_1_TRAVEL_SCROLL",
+    "MINING_1_PORTAL",
+    "MINING_2_TRAVEL_SCROLL",
+    "MINING_2_PORTAL",
+    "DWARVEN_MINES_TRAVEL_SCROLL",
+    "DWARVEN_MINES_PORTAL",
+    "FORGE_TRAVEL_SCROLL",
+    "FORGE_PORTAL",
+    "CRYSTAL_NUCLEUS_TRAVEL_SCROLL",
+    "CRYSTAL_NUCLEUS_PORTAL",
+    "DANGER_1_TRAVEL_SCROLL",
+    "DANGER_1_PORTAL",
+    "TOP_OF_SPIDERS_DEN_TRAVEL_SCROLL",
+    "TOP_OF_SPIDERS_DEN_PORTAL",
+    "ARACHNE_SANCTUARY_TRAVEL_SCROLL",
+    "ARACHNE_SANCTUARY_PORTAL",
+    "DANGER_2_TRAVEL_SCROLL",
+    "DANGER_2_PORTAL",
+    "DANGER_3_TRAVEL_SCROLL",
+    "DANGER_3_PORTAL",
+    "DRAGON_NEST_TRAVEL_SCROLL",
+    "DRAGON_NEST_PORTAL",
+    "VOID_SEPULTURE_TRAVEL_SCROLL",
+    "VOID_SEPULTURE_PORTAL",
+    "SMOLDERING_TOMB_TRAVEL_SCROLL",
+    "SMOLDERING_TOMB_PORTAL",
+    "KUUDRA_SKULL_TRAVEL_SCROLL",
+    "KUUDRA_SKULL_PORTAL",
+    "TUNING_FORK",
+    "HOLOGRAM",
+    "DINGY",
+    "PIG_MASK",
+    "TRAINING_DUMMY",
+    "WIZARD_WAND",
+    "LAVA",
+    "TROPICAL_BIRD_1_PERSONALITY"
   ],
   "global": {
     "profit": 40000000,
