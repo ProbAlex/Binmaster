@@ -1,2 +1,0 @@
-# Binmaster
-public bm
