@@ -3,35 +3,53 @@
     "emails": ""
   },
   "page": {
-    "port": 6969
+    "port": 6969,
+    "enabled": true
   },
   "webhook": {
     "webhook_url": ""
   },
   "bed_flips": {
-    "spam_buy_delay": 45,
-    "pre_bed_spam": 1000
+    "spam_buy_delay": 30,
+    "pre_bed_spam": 2000,
+    "skip_enabled": true
+  },
+  "actions": {
+    "duration": "12h",
+    "claim_all": true,
+    "save_queue": false,
+    "round_prices": true,
+    "round_to": 10000
+  },
+  "flips": {
+    "min_profit": 1500000,
+    "min_profit_percentage": 10,
+    "sell_overflow_multiplier": 1.25,
+    "sell_overflow_base": 10000000,
+    "min_volume": 1,
+    "sort_flips": "descending",
+    "disable_auto_relist": [
+      "HYPERION",
+      "DARK_CLAYMORE",
+      "TERMINATOR",
+      "PET_GOLDEN_DRAGON_LEGENDARY",
+      "PET_ENDER_DRAGON_EPIC",
+      "PET_ENDER_DRAGON_LEGENDARY"
+    ],
+    "disable_auto_relist_attributes": []
+  },
+  "api": {
+    "binmaster_key": "",
+    "hypixel_api_key": "",
+    "manually_set_coop_count": 0
   },
   "logger": {
     "colorfulLog": true,
     "logDate": true,
     "logChat": true,
     "logConsole": true,
-    "prefix": "discord.gg/Godflipper > "
-  },
-  "listing": {
-    "duration": "24h"
-  },
-  "flips": {
-    "min_profit": 1500000,
-    "min_profit_percentage": 7,
-    "sell_overflow_multiplier": 1.1,
-    "sell_overflow_base": 3500000,
-    "min_volume": 0,
-    "sort_flips": "random"
-  },
-  "api_keys": {
-    "binmaster_key": "",
-    "hypixel_api_key": ""
+    "prefix": "%USERNAME% >",
+    "replaceString": "%USERNAME%",
+    "replaceWith": "menlover69"
   }
 }
