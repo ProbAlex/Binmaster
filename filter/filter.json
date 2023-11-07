@@ -433,6 +433,23 @@
     "PET_SKIN_BAL_INFERNO=global:true",
     "PET_SKIN_BAT_VAMPIRE=global:true",
     "PET_SKIN_BEE_RGBEE=global:true",
+    "PET_GRIFFIN_LEGENDARY=global:true",
+    "PET_MOOSHROOM_COW_LEGENDARY=global:true",
+    "PET_ELEPHANT_LEGENDARY=global:true",
+    "PET_LION_LEGENDARY=global:true",
+    "PET_TIGER_LEGENDARY=global:true",
+    "PET_FLYING_FISH_LEGENDARY=global:true",
+    "PET_BAL_LEGENDARY=global:true",
+    "PET_BAL_EPIC=global:true",
+    "PET_GRIFFIN_EPIC=global:true",
+    "PET_GRIFFIN_RARE=global:true",
+    "PET_SCATHA_RARE=global:true",
+    "PET_SCATHA_EPIC=global:true",
+    "PET_ENDERMAN_MYTHIC=global:true",
+    "PET_ENDERMAN_LEGENDARY=global:true",
+    "PET_DOLPHIN_LEGENDARY=global:true",
+    "PET_SQUID_LEGENDARY=global:true",
+    "PET_WHALE_LEGENDARY=global:true",
     "PET_SKIN_BLACK_CAT_IVORY=global:true",
     "PET_SKIN_BLACK_CAT_ONYX=global:true",
     "PET_SKIN_BLACK_CAT_PURRANORMAL=global:true",
@@ -3818,8 +3835,8 @@
       "profit_percentage": 80
     },
     "PET_GRIFFIN_LEGENDARY=global:true": {
-      "profit": 3000000,
-      "profit_percentage": 5
+      "profit": 6000000,
+      "profit_percentage": 9
     },
     "PET_ARMADILLO_EPIC=global:true": {
       "profit": 5000000,
@@ -10108,6 +10125,38 @@
     "WISE_WITHER_HELMET=rarity_upgraded:true&stars:9&ultimate_legion:2": {
       "profit": 4000000,
       "profit_percentage": 8
+    },
+    "PET_SCATHA_RARE=global:true": {
+      "profit": 9000000,
+      "profit_percentage": 8
+    },
+    "PET_SCATHA_EPIC=global:true": {
+      "profit": 20000000,
+      "profit_percentage": 9
+    },
+    "PET_BAL_EPIC=global:true": {
+      "profit": 5000000,
+      "profit_percentage": 12
+    },
+    "PET_BAL_LEGENDARY=global:true": {
+      "profit": 6000000,
+      "profit_percentage": 12
+    },
+    "PET_SQUID_LEGENDARY=global:true": {
+      "profit": 7000000,
+      "profit_percentage": 12
+    },
+    "PET_FLYING_FISH_LEGENDARY=global:true": {
+      "profit": 7000000,
+      "profit_percentage": 12
+    },
+    "PET_GRIFFIN_EPIC=global:true": {
+      "profit": 7000000,
+      "profit_percentage": 12
+    },
+    "PET_GRIFFIN_RARE=global:true": {
+      "profit": 5000000,
+      "profit_percentage": 12
     },
     "WISE_WITHER_HELMET=rarity_upgraded:true&stars:9&ultimate_legion:3": {
       "profit": 4000000,
@@ -23728,6 +23777,18 @@
     },
     "PET_WITHER_SKELETON_EPIC=candyUsed:false&rounded_level:5": {
       "scaleFactor": 0.80,
+      "overwritePrice": false
+    },
+    "PET_BAT_LEGENDARY=global:true": {
+      "scaleFactor": 0.70,
+      "overwritePrice": false
+    },
+    "PET_BAT_MYTHIC=global:true": {
+      "scaleFactor": 0.70,
+      "overwritePrice": false
+    },
+    "PET_MITHRIL_GOLEM_MYTHIC=global:true": {
+      "scaleFactor": 0.70,
       "overwritePrice": false
     },
     "PET_WITHER_SKELETON_EPIC=candyUsed:false&rounded_level:10": {
