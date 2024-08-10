@@ -1,0 +1,73 @@
+{
+  "minecraft": {
+    "emails": ""
+  },
+  "page": {
+    "port": 80,
+    "enabled": true,
+    "password": ""
+  },
+  "webhook": {
+    "webhook_url": ""
+  },
+  "bed_flips": {
+    "spam_buy_delay": 5,
+    "pre_bed_spam": 1200,
+    "skip_enabled": true
+  },
+  "actions": {
+    "duration": "48h",
+    "use_expensive_item_duration_min": 50000000,
+    "expensive_item_duration": "48h",
+    "claim_all": true,
+    "save_queue": true,
+    "round_prices": true,
+    "round_to": 100000
+  },
+  "flips": {
+    "min_profit": 2500000,
+    "min_profit_percentage": 10,
+    "sell_overflow_multiplier": 1.25,
+    "sell_overflow_base": 1000000000,
+    "min_volume": 15,
+    "sort_flips": "descending",
+    "disable_auto_relist": [
+      "HYPERION",
+      "DARK_CLAYMORE",
+      "TERMINATOR",
+      "PET_GOLDEN_DRAGON_LEGENDARY",
+      "SCYLLA",
+      "ASTRAEA",
+      "VALKYRIE",
+      "DIVAN_BOOTS",
+      "DIVAN_LEGGINGS",
+      "DIVAN_CHESTPLATE",
+      "DIVAN_HELMET",
+      "DIVAN_DRILL",
+      "HELLFIRE_ROD",
+      "GEMSTONE_GAUNTLET",
+      "TITANIUM_DRILL_4"
+    ],
+    "disable_auto_relist_attributes": [
+      "ultimate_chimera:1",
+      "ultimate_chimera:2",
+      "ultimate_chimera:3",
+      "ultimate_chimera:4",
+      "ultimate_chimera:5"
+    ]
+  },
+  "api": {
+    "binmaster_key": "",
+    "hypixel_api_key": "",
+    "manually_set_coop_count": -1
+  },
+  "logger": {
+    "colorfulLog": true,
+    "logDate": true,
+    "logChat": true,
+    "logConsole": true,
+    "prefix": "Godflipper >",
+    "replaceString": "%USERNAME%",
+    "replaceWith": "discord.gg/Godflipper"
+  }
+}
